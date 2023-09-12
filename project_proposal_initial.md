@@ -20,10 +20,14 @@ Background Knowledge:
     The study validates the benefits of Adaptive User Interface (AUIs), they increase the user-machine interactivity and adaptablity [1]. The review of various research papers about AUIs suggest that there is still scope to explore the fields to apply it. AR applications lack ease of use as various users find it difficult to navigate. The use AUIs can solve this problem efficiently. A personalised AUI will makes the application adaptible and fun to use as well. This will require large user data and analysis to identify their preferrences. A case study done in the form of a mobile app called APA (Assistant Personal App), whose adaptability features have been tested in several scenarios [4]. 
 
 Related Work: 
+
 [1] Mahdi H. Miraz, Maaruf Ali, Peter S. Excell,
     Adaptive user interfaces and universal usability through plasticity of user interface design,
     Computer Science Review, Volume 40, 2021, 100363, ISSN 1574-0137,
     https://doi.org/10.1016/j.cosrev.2021.100363.
+    
 [2] Julier, Simon & Livingston, Mark & Edward, Jessica & Ii, Swan & Baillot, Yohan & Brown, Dennis. (2004). Adaptive User Interfaces in Augmented Reality. 
+
 [3] M. Nivethika, I. Vithiya, S. Anntharshika and S. Deegalla, "Personalized and adaptive user interface framework for mobile application," 2013 International          Conference on Advances in Computing, Communications and Informatics (ICACCI), Mysore, India, 2013, pp. 1913-1918, doi: 10.1109/ICACCI.2013.6637474.
+
 [4]Braham A, Buendía F, Khemaja M, Gargouri F. Generation of Adaptive Mobile Applications Based on Design Patterns for User Interfaces. Proceedings. 2019; 31(1):19. https://doi.org/10.3390/proceedings2019031019
