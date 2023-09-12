@@ -5,6 +5,7 @@
 
 Keywords: 
     Adaptive User Interface, Dynamic Interface, Human Computer Interaction
+
 Description: 
     The project proposes an idea to enable user to have a personalised adaptive user interface for an augmented reality application. With AR becoming the next generation technology it is necessary for making it easy to understand and use. The project aims to revolutionize the users interaction with AR content. The primary goal of is to increase user engagement, seamless flow through the UI, scalable to other AR applications. The data collected will range from personal information to user interaction logs. The data collected will be identification of navigation pattern, button clicks, swipes, taps and user preference for getting a personalized view of the usage by the users. The data can be a identifier for type of button clicked, number of times it wax clicked, etc. It can be used to know how often the user navigates from oone link to other? Which area has the highest taps/swipes? The highest/lowest used buttons?  
 
