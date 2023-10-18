@@ -1,0 +1,36 @@
+WEBSITE,YEAR,PAGE PATH,PAGE URL,PAGE VIEWS,UNIQUE VIEWS,AVERAGE TIME ON PAGE (SECONDS),ENTRANCES,BOUNCE RATE (%),EXIT RATE (%)
+311.brla.gov,2022,"['', 'knowledge-base', '']",http://311.brla.gov/knowledge-base/,5962,5190,89.38,6788,55.17,56.6
+311.brla.gov,2023,"['', 'knowledge-base', '']",http://311.brla.gov/knowledge-base/,3684,3272,90.77,5572,44.1,58.92
+311.brla.gov,2017,"['', 'knowledge-base', '']",http://311.brla.gov/knowledge-base/,5976,4660,90.1,3296,26.76,47.71
+311.brla.gov,2020,"['', 'request-for-service', '', '']",http://311.brla.gov/request-for-service//,6,4,130.5,0,0.0,0.0
+311.brla.gov,2022,"['', 'request-for-service', '']",http://311.brla.gov/request-for-service/,31948,25148,162.5,16560,82.13,69.14
+311.brla.gov,2021,"['', 'request-for-service', '']",http://311.brla.gov/request-for-service/,39938,31530,167.49,15062,81.08,67.99
+311.brla.gov,2019,"['', 'contact', '']",http://311.brla.gov/contact/,12142,10860,141.18,11329,79.79,71.02
+311.brla.gov,2016,"['', '']",http://311.brla.gov/,41814,32926,33.69,2085,42.43,33.58
+311.brla.gov,2017,"['', 'contact', '']",http://311.brla.gov/contact/,7408,6498,99.32,4916,56.24,64.39
+311.brla.gov,2018,"['', 'knowledge-base', '']",http://311.brla.gov/knowledge-base/,6100,5142,86.6,5700,37.04,50.62
+311.brla.gov,2019,"['', '']",http://311.brla.gov/,50502,40808,30.46,74530,24.42,31.58
+311.brla.gov,2018,"['', '']",http://311.brla.gov/,43356,34906,27.96,72951,20.87,28.6
+311.brla.gov,2016,"['', 'contact', '']",http://311.brla.gov/contact/,8816,7848,123.08,231,87.9,64.15
+311.brla.gov,2020,"['', '']",http://311.brla.gov/,49418,39536,25.18,76478,23.57,31.05
+311.brla.gov,2023,"['', '']",http://311.brla.gov/,29898,25350,29.13,38566,23.93,33.22
+311.brla.gov,2022,"['', '', '']",http://311.brla.gov//,2,2,0.0,200,100.0,100.0
+311.brla.gov,2021,"['', '']",http://311.brla.gov/,56486,46082,25.94,94779,24.99,32.28
+311.brla.gov,2019,"['', 'request-for-service', '', '']",http://311.brla.gov/request-for-service//,2,2,0.0,200,100.0,100.0
+311.brla.gov,2023,"['', 'request-for-service', '']",http://311.brla.gov/request-for-service/,21256,17168,175.43,12874,83.74,73.21
+311.brla.gov,2019,"['', 'request-for-service', '']",http://311.brla.gov/request-for-service/,30952,25726,150.04,15529,82.89,70.76
+311.brla.gov,2016,"['', 'knowledge-base', '']",http://311.brla.gov/knowledge-base/,5904,4698,103.03,309,70.98,39.59
+311.brla.gov,2016,"['', 'request-for-service', '']",http://311.brla.gov/request-for-service/,19964,16392,103.78,476,71.23,59.84
+311.brla.gov,2020,"['', 'contact', '']",http://311.brla.gov/contact/,10924,9602,128.11,11703,73.53,69.76
+311.brla.gov,2023,"['', 'contact', '']",http://311.brla.gov/contact/,5924,5378,190.87,6046,78.54,73.92
+311.brla.gov,2022,"['', 'contact', '']",http://311.brla.gov/contact/,9162,8086,172.29,11669,72.96,71.97
+311.brla.gov,2017,"['', 'request-for-service', '']",http://311.brla.gov/request-for-service/,19702,16388,127.74,3784,65.37,63.2
+311.brla.gov,2018,"['', 'contact', '']",http://311.brla.gov/contact/,11748,10338,139.13,11237,75.63,70.21
+311.brla.gov,2021,"['', 'knowledge-base', '']",http://311.brla.gov/knowledge-base/,7162,6086,95.82,7976,52.27,54.24
+311.brla.gov,2022,"['', '']",http://311.brla.gov/,44142,36932,29.08,76959,26.63,35.18
+311.brla.gov,2017,"['', '']",http://311.brla.gov/,36856,29302,25.2,37637,22.82,33.1
+311.brla.gov,2020,"['', 'knowledge-base', '']",http://311.brla.gov/knowledge-base/,6586,5638,92.98,5460,36.22,52.01
+311.brla.gov,2018,"['', 'request-for-service', '']",http://311.brla.gov/request-for-service/,25098,21028,148.28,12193,82.87,68.69
+311.brla.gov,2020,"['', 'request-for-service', '']",http://311.brla.gov/request-for-service/,32902,25970,180.29,12376,79.63,66.12
+311.brla.gov,2019,"['', 'knowledge-base', '']",http://311.brla.gov/knowledge-base/,6856,5874,86.53,6989,47.44,54.11
+311.brla.gov,2021,"['', 'contact', '']",http://311.brla.gov/contact/,11404,10096,151.52,11011,73.18,69.28

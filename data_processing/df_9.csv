@@ -1,0 +1,148 @@
+WEBSITE,YEAR,PAGE PATH,PAGE URL,PAGE VIEWS,UNIQUE VIEWS,AVERAGE TIME ON PAGE (SECONDS),ENTRANCES,BOUNCE RATE (%),EXIT RATE (%)
+gis.brla.gov,2017,"['', 'mygovernmentservices', '']",http://gis.brla.gov/mygovernmentservices/,10093,8505,158.81,16701,79.88,79.67
+gis.brla.gov,2017,"['', 'propertylookup-2.asp']",http://gis.brla.gov/propertylookup-2.asp,202,13,30.88,43,4.76,10.09
+gis.brla.gov,2019,"['', 'history.asp']",http://gis.brla.gov/history.asp,46,37,66.99,1051,39.58,56.5
+gis.brla.gov,2018,"['', 'default_ebrgis.asp']",http://gis.brla.gov/default_ebrgis.asp,5,2,254.6,20,0.0,0.0
+gis.brla.gov,2015,"['', 'cac.asp']",http://gis.brla.gov/cac.asp,35,19,33.57,67,44.44,40.4
+gis.brla.gov,2018,"['', 'census10.asp']",http://gis.brla.gov/census10.asp,470,238,54.9,6914,23.31,33.22
+gis.brla.gov,2015,"['', 'jurisdictionlookup.asp']",http://gis.brla.gov/jurisdictionlookup.asp,1342,357,61.11,206,45.06,34.88
+gis.brla.gov,2016,"['', 'default_gisday.asp']",http://gis.brla.gov/default_gisday.asp,55,3,103.5,4,0.0,1.82
+gis.brla.gov,2019,"['', 'streetrange.asp']",http://gis.brla.gov/streetrange.asp,397,115,39.36,2079,23.31,39.39
+gis.brla.gov,2019,"['', 'recognition.asp']",http://gis.brla.gov/recognition.asp,20,16,179.56,600,50.0,68.33
+gis.brla.gov,2016,"['', 'census', '']",http://gis.brla.gov/census/,3,3,33.0,100,33.33,33.33
+gis.brla.gov,2017,"['', 'streetaddressing.asp']",http://gis.brla.gov/streetaddressing.asp,909,782,103.65,7337,60.51,62.54
+gis.brla.gov,2017,"['', 'streetrange.asp']",http://gis.brla.gov/streetrange.asp,1517,310,52.59,1695,15.73,27.49
+gis.brla.gov,2016,"['', 'propertydetail.asp']",http://gis.brla.gov/propertydetail.asp,98103,80824,161.86,1330698,14.64,44.15
+gis.brla.gov,2016,"['', 'census00.asp']",http://gis.brla.gov/census00.asp,86,18,96.65,6,40.0,10.47
+gis.brla.gov,2016,"['', 'census10', 'default_old.asp']",http://gis.brla.gov/census10/default_old.asp,1,1,0.0,0,0.0,100.0
+gis.brla.gov,2017,"['', 'gisteam.asp']",http://gis.brla.gov/gisteam.asp,553,482,40.55,974,10.89,41.53
+gis.brla.gov,2017,"['', 'eiengrant.asp']",http://gis.brla.gov/eiengrant.asp,97,80,123.46,538,8.07,39.46
+gis.brla.gov,2019,"['', 'censusinfo00.asp']",http://gis.brla.gov/censusinfo00.asp,19,15,16.95,300,20.0,20.0
+gis.brla.gov,2015,"['', 'publications.asp']",http://gis.brla.gov/publications.asp,78,60,63.65,16,33.33,49.21
+gis.brla.gov,2017,"['', 'propertylookup-3.asp']",http://gis.brla.gov/propertylookup-3.asp,11,3,164.12,11,0.0,5.56
+gis.brla.gov,2018,"['', 'faq.asp']",http://gis.brla.gov/faq.asp,156,120,34.72,1025,9.38,52.52
+gis.brla.gov,2017,"['', 'publications.asp']",http://gis.brla.gov/publications.asp,135,109,85.29,413,10.26,44.12
+gis.brla.gov,2019,"['', 'census10', 'censusinfo.asp']",http://gis.brla.gov/census10/censusinfo.asp,34,20,110.21,710,41.67,48.54
+gis.brla.gov,2021,"['', '']",http://gis.brla.gov/,1,1,0.0,100,100.0,100.0
+gis.brla.gov,2016,"['', 'mygovernmentservices', '']",http://gis.brla.gov/mygovernmentservices/,19925,17265,133.85,1595,84.94,89.0
+gis.brla.gov,2018,"['', 'historiccensustest.asp']",http://gis.brla.gov/historiccensustest.asp,7,1,72.83,14,0.0,14.29
+gis.brla.gov,2019,"['', 'addressrequest.asp']",http://gis.brla.gov/addressrequest.asp,143,115,76.82,2234,48.74,62.08
+gis.brla.gov,2016,"['', 'roadclosuretest.asp']",http://gis.brla.gov/roadclosuretest.asp,34,7,91.93,15,60.0,17.65
+gis.brla.gov,2018,"['', 'streetrange.asp']",http://gis.brla.gov/streetrange.asp,1600,436,46.23,5800,17.53,34.39
+gis.brla.gov,2019,"['', 'staff.asp']",http://gis.brla.gov/staff.asp,61,55,102.13,1237,35.14,57.52
+gis.brla.gov,2019,"['', 'gisteam.asp']",http://gis.brla.gov/gisteam.asp,113,97,79.0,315,8.82,49.15
+gis.brla.gov,2016,"['', 'disclaimer.asp']",http://gis.brla.gov/disclaimer.asp,60,51,51.48,78,0.0,35.1
+gis.brla.gov,2015,"['', 'propertydetail.asp']",http://gis.brla.gov/propertydetail.asp,23502,18882,189.12,247301,10.79,34.82
+gis.brla.gov,2015,"['', 'streetaddressing.asp']",http://gis.brla.gov/streetaddressing.asp,250,206,106.71,107,60.05,45.35
+gis.brla.gov,2018,"['', 'eiengrant.asp']",http://gis.brla.gov/eiengrant.asp,165,142,43.73,2467,23.21,52.56
+gis.brla.gov,2017,"['', 'aboutod.asp']",http://gis.brla.gov/aboutod.asp,63,57,90.46,2569,55.74,71.46
+gis.brla.gov,2018,"['', 'staff.asp']",http://gis.brla.gov/staff.asp,269,214,71.16,3425,21.93,45.6
+gis.brla.gov,2017,"['', 'census00.asp']",http://gis.brla.gov/census00.asp,31,25,17.55,0,0.0,20.59
+gis.brla.gov,2019,"['', '']",http://gis.brla.gov/,7158,6202,149.8,9936,60.27,67.57
+gis.brla.gov,2017,"['', 'propertylookup.asp']",http://gis.brla.gov/propertylookup.asp,110198,33243,45.6,5533,18.59,12.66
+gis.brla.gov,2016,"['', 'c-propertydetail.asp']",http://gis.brla.gov/c-propertydetail.asp,164,88,85.28,394,7.84,25.18
+gis.brla.gov,2018,"['', 'resources.asp']",http://gis.brla.gov/resources.asp,212,192,95.77,1384,12.03,53.02
+gis.brla.gov,2019,"['', 'cac.asp']",http://gis.brla.gov/cac.asp,19,16,91.18,33,0.0,34.72
+gis.brla.gov,2016,"['', 'c-jurisdictionlookup.asp']",http://gis.brla.gov/c-jurisdictionlookup.asp,9,3,66.71,0,0.0,22.22
+gis.brla.gov,2017,"['', 'metadata.asp']",http://gis.brla.gov/metadata.asp,335,300,125.83,4623,47.68,66.73
+gis.brla.gov,2017,"['', 'propertydetail.asp']",http://gis.brla.gov/propertydetail.asp,108597,89931,160.52,1680247,13.73,43.75
+gis.brla.gov,2016,"['', 'census10', '']",http://gis.brla.gov/census10/,3,3,0.0,67,100.0,100.0
+gis.brla.gov,2018,"['', 'metadata.asp']",http://gis.brla.gov/metadata.asp,498,428,118.41,10948,54.6,73.56
+gis.brla.gov,2018,"['', 'blightedproperty.asp']",http://gis.brla.gov/blightedproperty.asp,9,4,82.0,43,16.67,39.29
+gis.brla.gov,2016,"['', 'census10.asp']",http://gis.brla.gov/census10.asp,81,30,72.0,7,0.0,15.92
+gis.brla.gov,2017,"['', 'faq.asp']",http://gis.brla.gov/faq.asp,66,41,63.0,194,10.12,22.84
+gis.brla.gov,2016,"['', 'teststaff.asp']",http://gis.brla.gov/teststaff.asp,42,4,48.05,2,0.0,0.0
+gis.brla.gov,2018,"['', 'cac.asp']",http://gis.brla.gov/cac.asp,93,48,49.56,852,22.5,51.0
+gis.brla.gov,2016,"['', 'streetrange.asp']",http://gis.brla.gov/streetrange.asp,1160,347,58.32,69,32.63,17.12
+gis.brla.gov,2016,"['', 'propertylookup.asp']",http://gis.brla.gov/propertylookup.asp,103479,29658,34.38,785,25.5,22.53
+gis.brla.gov,2018,"['', 'censusinfo00.asp']",http://gis.brla.gov/censusinfo00.asp,74,63,111.2,1342,20.91,39.39
+gis.brla.gov,2019,"['', 'aboutod.asp']",http://gis.brla.gov/aboutod.asp,58,50,134.42,2232,60.94,71.56
+gis.brla.gov,2016,"['', 'neien.asp']",http://gis.brla.gov/neien.asp,31,11,285.96,26,62.5,22.58
+gis.brla.gov,2018,"['', 'disclaimer.asp']",http://gis.brla.gov/disclaimer.asp,84,75,68.58,717,9.23,49.74
+gis.brla.gov,2015,"['', '']",http://gis.brla.gov/,13285,10556,97.11,796,57.71,60.0
+gis.brla.gov,2016,"['', 'eiengrant.asp']",http://gis.brla.gov/eiengrant.asp,95,84,97.0,131,43.18,47.23
+gis.brla.gov,2017,"['', 'recognition.asp']",http://gis.brla.gov/recognition.asp,71,51,34.95,163,0.0,32.25
+gis.brla.gov,2017,"['', 'census10.asp']",http://gis.brla.gov/census10.asp,382,173,26.52,1234,8.42,30.89
+gis.brla.gov,2019,"['', 'publications.asp']",http://gis.brla.gov/publications.asp,97,87,63.72,2786,67.66,76.41
+gis.brla.gov,2017,"['', 'streetrange2.asp']",http://gis.brla.gov/streetrange2.asp,342,22,59.51,157,11.11,32.78
+gis.brla.gov,2018,"['', 'histpopu.asp']",http://gis.brla.gov/histpopu.asp,48,13,117.61,193,5.0,22.0
+gis.brla.gov,2016,"['', 'metadata.asp']",http://gis.brla.gov/metadata.asp,523,386,211.75,179,68.9,50.76
+gis.brla.gov,2016,"['', 'streetaddressing.asp']",http://gis.brla.gov/streetaddressing.asp,900,764,93.98,256,57.09,42.12
+gis.brla.gov,2018,"['', 'census00.asp']",http://gis.brla.gov/census00.asp,74,42,80.12,160,0.0,16.03
+gis.brla.gov,2017,"['', 'census10', 'censusinfo.asp']",http://gis.brla.gov/census10/censusinfo.asp,20,11,71.39,620,18.18,51.82
+gis.brla.gov,2016,"['', 'propertydetail-addr.asp']",http://gis.brla.gov/propertydetail-addr.asp,501,267,115.79,140,0.89,46.37
+gis.brla.gov,2016,"['', 'census10', 'censusinfo.asp']",http://gis.brla.gov/census10/censusinfo.asp,6,4,476.17,140,0.0,20.0
+gis.brla.gov,2015,"['', 'gisteam.asp']",http://gis.brla.gov/gisteam.asp,312,253,66.19,34,52.22,32.55
+gis.brla.gov,2019,"['', 'census00', '']",http://gis.brla.gov/census00/,1,1,0.0,100,100.0,100.0
+gis.brla.gov,2018,"['', 'history.asp']",http://gis.brla.gov/history.asp,122,102,55.87,1403,15.06,46.39
+gis.brla.gov,2015,"['', 'propertylookup-test.asp']",http://gis.brla.gov/propertylookup-test.asp,8,1,74.62,0,0.0,0.0
+gis.brla.gov,2016,"['', 'default_pardon.asp']",http://gis.brla.gov/default_pardon.asp,47,11,295.95,50,65.0,31.06
+gis.brla.gov,2018,"['', 'recognition.asp']",http://gis.brla.gov/recognition.asp,46,31,75.06,300,3.45,32.76
+gis.brla.gov,2016,"['', 'resources.asp']",http://gis.brla.gov/resources.asp,187,167,119.45,42,50.0,41.63
+gis.brla.gov,2016,"['', 'gisday.asp']",http://gis.brla.gov/gisday.asp,22,2,54.9,0,0.0,4.55
+gis.brla.gov,2017,"['', 'disclaimer.asp']",http://gis.brla.gov/disclaimer.asp,38,36,135.66,407,19.23,59.87
+gis.brla.gov,2015,"['', 'metadata.asp']",http://gis.brla.gov/metadata.asp,92,84,142.67,9,16.67,41.61
+gis.brla.gov,2019,"['', 'blightedproperty.asp']",http://gis.brla.gov/blightedproperty.asp,1,1,0.0,0,0.0,100.0
+gis.brla.gov,2019,"['', 'eiengrant.asp']",http://gis.brla.gov/eiengrant.asp,59,51,55.67,1481,37.88,51.12
+gis.brla.gov,2016,"['', 'history.asp']",http://gis.brla.gov/history.asp,137,130,66.46,292,48.07,44.97
+gis.brla.gov,2015,"['', 'disclaimer.asp']",http://gis.brla.gov/disclaimer.asp,24,18,42.41,17,0.0,26.67
+gis.brla.gov,2016,"['', 'gisteam.asp']",http://gis.brla.gov/gisteam.asp,711,634,56.51,79,65.52,40.68
+gis.brla.gov,2018,"['', 'publications.asp']",http://gis.brla.gov/publications.asp,227,170,70.47,6298,45.8,65.34
+gis.brla.gov,2015,"['', 'default_gis_day.asp']",http://gis.brla.gov/default_gis_day.asp,27,1,31.19,4,0.0,3.7
+gis.brla.gov,2018,"['', 'addressrequest.asp']",http://gis.brla.gov/addressrequest.asp,94,66,125.36,1737,40.1,61.71
+gis.brla.gov,2015,"['', 'mygovernmentservices', '']",http://gis.brla.gov/mygovernmentservices/,2641,2278,103.74,400,70.84,80.29
+gis.brla.gov,2017,"['', '']",http://gis.brla.gov/,43560,38345,99.25,19767,49.6,60.4
+gis.brla.gov,2015,"['', 'recognition.asp']",http://gis.brla.gov/recognition.asp,46,23,26.32,13,0.0,5.45
+gis.brla.gov,2017,"['', 'staff.asp']",http://gis.brla.gov/staff.asp,192,165,94.27,426,8.78,48.25
+gis.brla.gov,2019,"['', 'censusinfo10.asp']",http://gis.brla.gov/censusinfo10.asp,389,339,71.84,10250,23.51,41.09
+gis.brla.gov,2016,"['', '']",http://gis.brla.gov/,49663,42506,94.23,1560,60.38,58.22
+gis.brla.gov,2019,"['', 'resources.asp']",http://gis.brla.gov/resources.asp,61,53,73.73,903,25.71,53.43
+gis.brla.gov,2017,"['', 'censusinfo00.asp']",http://gis.brla.gov/censusinfo00.asp,29,22,42.17,433,14.29,39.68
+gis.brla.gov,2016,"['', 'recognition.asp']",http://gis.brla.gov/recognition.asp,50,48,30.51,33,4.17,27.85
+gis.brla.gov,2016,"['', 'publicationstable.asp']",http://gis.brla.gov/publicationstable.asp,10,1,129.3,0,0.0,0.0
+gis.brla.gov,2016,"['', 'census2000.asp']",http://gis.brla.gov/census2000.asp,1,1,0.0,0,0.0,100.0
+gis.brla.gov,2016,"['', 'publications.asp']",http://gis.brla.gov/publications.asp,181,136,104.98,40,23.08,40.73
+gis.brla.gov,2016,"['', 'aboutod.asp']",http://gis.brla.gov/aboutod.asp,21,17,352.0,62,69.23,57.14
+gis.brla.gov,2018,"['', 'gisteam.asp']",http://gis.brla.gov/gisteam.asp,402,361,64.47,2008,11.43,49.92
+gis.brla.gov,2019,"['', 'metadata.asp']",http://gis.brla.gov/metadata.asp,193,175,155.01,3735,59.26,66.3
+gis.brla.gov,2018,"['', 'streetaddressing.asp']",http://gis.brla.gov/streetaddressing.asp,1004,844,84.17,17018,67.94,69.45
+gis.brla.gov,2018,"['', 'jurisdictionlookup.asp']",http://gis.brla.gov/jurisdictionlookup.asp,8863,3053,84.6,9658,32.37,37.16
+gis.brla.gov,2016,"['', 'c-streetrange.asp']",http://gis.brla.gov/c-streetrange.asp,4,2,184.0,0,0.0,0.0
+gis.brla.gov,2017,"['', 'default_techtalk.asp']",http://gis.brla.gov/default_techtalk.asp,26,3,147.17,4,0.0,11.54
+gis.brla.gov,2015,"['', 'streetrange.asp']",http://gis.brla.gov/streetrange.asp,901,92,63.05,33,36.8,16.42
+gis.brla.gov,2018,"['', 'roadclosuretest.asp']",http://gis.brla.gov/roadclosuretest.asp,1,1,0.0,0,0.0,100.0
+gis.brla.gov,2017,"['', 'jurisdictionlookup.asp']",http://gis.brla.gov/jurisdictionlookup.asp,15095,5802,103.8,6924,39.35,41.17
+gis.brla.gov,2017,"['', 'history.asp']",http://gis.brla.gov/history.asp,99,88,62.07,675,10.87,40.22
+gis.brla.gov,2019,"['', 'streetaddressing.asp']",http://gis.brla.gov/streetaddressing.asp,290,216,88.11,5386,76.69,74.68
+gis.brla.gov,2019,"['', 'disclaimer.asp']",http://gis.brla.gov/disclaimer.asp,31,26,87.84,700,21.05,44.74
+gis.brla.gov,2018,"['', 'historiccensus.asp']",http://gis.brla.gov/historiccensus.asp,19,11,79.22,200,33.33,65.28
+gis.brla.gov,2016,"['', 'census.asp']",http://gis.brla.gov/census.asp,30,6,170.38,7,0.0,3.33
+gis.brla.gov,2016,"['', 'census2010.asp']",http://gis.brla.gov/census2010.asp,22,2,156.95,5,0.0,4.55
+gis.brla.gov,2019,"['', 'faq.asp']",http://gis.brla.gov/faq.asp,61,45,83.14,831,22.58,57.1
+gis.brla.gov,2016,"['', 'default_floodmaps.asp']",http://gis.brla.gov/default_floodmaps.asp,13,1,31.0,0,0.0,0.0
+gis.brla.gov,2015,"['', 'propertylookup.asp']",http://gis.brla.gov/propertylookup.asp,28220,6867,41.94,319,21.42,19.38
+gis.brla.gov,2015,"['', 'history.asp']",http://gis.brla.gov/history.asp,72,46,69.05,38,13.33,36.77
+gis.brla.gov,2019,"['', 'census10.asp']",http://gis.brla.gov/census10.asp,190,87,27.95,3117,50.0,55.05
+gis.brla.gov,2016,"['', 'test-menu.asp']",http://gis.brla.gov/test-menu.asp,45,6,134.34,7,66.67,8.89
+gis.brla.gov,2016,"['', 'censusinfo00.asp']",http://gis.brla.gov/censusinfo00.asp,131,45,45.54,56,3.33,4.01
+gis.brla.gov,2016,"['', 'censusinfo10.asp']",http://gis.brla.gov/censusinfo10.asp,108,57,103.94,83,2.7,12.49
+gis.brla.gov,2019,"['', 'census00.asp']",http://gis.brla.gov/census00.asp,20,6,25.19,0,0.0,51.19
+gis.brla.gov,2017,"['', 'cac.asp']",http://gis.brla.gov/cac.asp,43,39,75.21,129,6.9,61.62
+gis.brla.gov,2018,"['', 'mygovernmentservices', '']",http://gis.brla.gov/mygovernmentservices/,360,278,165.53,1611,73.79,77.22
+gis.brla.gov,2016,"['', 'c-propertylookup.asp']",http://gis.brla.gov/c-propertylookup.asp,194,42,96.15,26,10.68,4.42
+gis.brla.gov,2016,"['', 'staff.asp']",http://gis.brla.gov/staff.asp,86,73,141.42,16,33.33,44.13
+gis.brla.gov,2018,"['', 'propertydetail.asp']",http://gis.brla.gov/propertydetail.asp,83218,68725,158.2,1213905,11.38,38.82
+gis.brla.gov,2016,"['', 'censusinfo.asp']",http://gis.brla.gov/censusinfo.asp,1,1,263.0,0,0.0,0.0
+gis.brla.gov,2016,"['', 'censustest.asp']",http://gis.brla.gov/censustest.asp,1,1,991.0,100,0.0,0.0
+gis.brla.gov,2016,"['', 'jurisdictionlookup.asp']",http://gis.brla.gov/jurisdictionlookup.asp,10086,3160,101.39,292,40.0,29.86
+gis.brla.gov,2016,"['', 'census', 'censusinfo.asp']",http://gis.brla.gov/census/censusinfo.asp,5,5,7.0,0,0.0,20.0
+gis.brla.gov,2018,"['', 'censusinfo10.asp']",http://gis.brla.gov/censusinfo10.asp,849,728,77.76,10240,10.74,26.09
+gis.brla.gov,2018,"['', 'census10', 'censusinfo.asp']",http://gis.brla.gov/census10/censusinfo.asp,72,45,38.94,3158,52.27,71.78
+gis.brla.gov,2017,"['', 'censusinfo10.asp']",http://gis.brla.gov/censusinfo10.asp,303,273,87.91,1008,2.02,19.72
+gis.brla.gov,2019,"['', 'jurisdictionlookup.asp']",http://gis.brla.gov/jurisdictionlookup.asp,1,1,0.0,100,100.0,100.0
+gis.brla.gov,2017,"['', 'resources.asp']",http://gis.brla.gov/resources.asp,218,191,94.0,698,7.87,44.88
+gis.brla.gov,2018,"['', 'propertylookup.asp']",http://gis.brla.gov/propertylookup.asp,93509,28166,42.86,8169,23.56,16.35
+gis.brla.gov,2019,"['', 'propertydetail.asp']",http://gis.brla.gov/propertydetail.asp,14508,12445,134.14,477680,24.82,42.65
+gis.brla.gov,2018,"['', 'aboutod.asp']",http://gis.brla.gov/aboutod.asp,111,103,69.52,5882,64.1,75.83
+gis.brla.gov,2016,"['', 'cac.asp']",http://gis.brla.gov/cac.asp,49,44,92.86,150,23.08,52.75
+gis.brla.gov,2018,"['', '']",http://gis.brla.gov/,29865,26010,134.31,34560,55.72,66.79

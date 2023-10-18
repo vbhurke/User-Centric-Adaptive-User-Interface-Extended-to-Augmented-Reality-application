@@ -1,0 +1,186 @@
+WEBSITE,YEAR,PAGE PATH,PAGE URL,PAGE VIEWS,UNIQUE VIEWS,AVERAGE TIME ON PAGE (SECONDS),ENTRANCES,BOUNCE RATE (%),EXIT RATE (%)
+my.brla.gov,2017,"['', 'socmeterms.htm']",http://my.brla.gov/socmeterms.htm,2,1,16.0,0,0.0,50.0
+my.brla.gov,2016,"['', 'dept', 'brpd', 'csr', 'zone.asp']",http://my.brla.gov/dept/brpd/csr/zone.asp,10,7,358.56,0,0.0,20.83
+my.brla.gov,2017,"['', 'dept', 'planning', 'calendar', '2016', 'september.htm']",http://my.brla.gov/dept/planning/calendar/2016/september.htm,1,1,3.0,0,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'hr', 'jobann.asp']",http://my.brla.gov/dept/hr/jobann.asp,8,8,38.64,0,0.0,14.29
+my.brla.gov,2017,"['', 'dept', 'citycourt', 'criminalfaqs.htm']",http://my.brla.gov/dept/citycourt/criminalfaqs.htm,1,1,0.0,0,0.0,100.0
+my.brla.gov,2017,"['', 'dept', 'oep', 'publicinfo.htm']",http://my.brla.gov/dept/oep/publicinfo.htm,1,1,32.0,0,0.0,0.0
+my.brla.gov,2016,"['', 'dept', 'hr', 'benefits.htm']",http://my.brla.gov/dept/hr/benefits.htm,1,1,0.0,0,0.0,100.0
+my.brla.gov,2017,"['', 'dept', 'mayor', '']",http://my.brla.gov/dept/mayor/,5,5,34.0,0,0.0,80.0
+my.brla.gov,2017,"['', 'dept', 'council', 'boards.asp']",http://my.brla.gov/dept/council/boards.asp,8,4,4.83,0,0.0,0.0
+my.brla.gov,2016,"['', 'dept', 'citycourt', 'warrants', '']",http://my.brla.gov/dept/citycourt/warrants/,5,3,7.83,0,0.0,11.11
+my.brla.gov,2017,"['', 'dept', 'planning_old', 'bike', 'biketowork.htm']",http://my.brla.gov/dept/planning_old/bike/biketowork.htm,1,1,0.0,0,0.0,100.0
+my.brla.gov,2017,"['', 'http']",http://my.brla.gov/http,1,1,9.0,0,0.0,0.0
+my.brla.gov,2018,"['', 'dept', 'recycle', 'householdhazardous.htm']",http://my.brla.gov/dept/recycle/householdhazardous.htm,5,2,94.33,40,0.0,40.0
+my.brla.gov,2016,"['', 'dept', 'brpd', '']",http://my.brla.gov/dept/brpd/,1,1,5.0,0,0.0,0.0
+my.brla.gov,2018,"['', 'dept', 'finance', 'registeronline.htm']",http://my.brla.gov/dept/finance/registeronline.htm,1,1,0.0,100,100.0,100.0
+my.brla.gov,2018,"['', 'services.asp']",http://my.brla.gov/services.asp,2,2,63.5,0,0.0,0.0
+my.brla.gov,2016,"['', 'includes', 'notfound.asp']",http://my.brla.gov/includes/notfound.asp,1,1,3.0,100,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'dpw', 'environmental.htm']",http://my.brla.gov/dept/dpw/environmental.htm,1,1,3.0,0,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'parishattorney', 'abc.htm']",http://my.brla.gov/dept/parishattorney/abc.htm,1,1,0.0,0,0.0,100.0
+my.brla.gov,2017,"['', 'planning']",http://my.brla.gov/planning,1,1,0.0,100,100.0,100.0
+my.brla.gov,2018,"['', 'dept', 'dpw', 'environmental_new', 'cartform.htm']",http://my.brla.gov/dept/dpw/environmental_new/cartform.htm,3,1,95.0,0,0.0,33.33
+my.brla.gov,2017,"['', 'dept', 'ocd', 'housing', 'lead.htm']",http://my.brla.gov/dept/ocd/housing/lead.htm,2,1,78.0,0,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'council', 'mc03.asp']",http://my.brla.gov/dept/council/mc03.asp,2,2,398.5,0,0.0,0.0
+my.brla.gov,2015,"['', 'dept', 'hr', 'insurance.htm']",http://my.brla.gov/dept/hr/insurance.htm,2,2,0.0,50,100.0,100.0
+my.brla.gov,2016,"['', 'gistestfrombrla', 'propertylookup.asp']",http://my.brla.gov/gistestfrombrla/propertylookup.asp,9,1,323.88,11,0.0,11.11
+my.brla.gov,2018,"['', 'dept', 'council', 'councilform.asp']",http://my.brla.gov/dept/council/councilform.asp,1,1,1008.0,0,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'planning', 'calendar', 'may.htm']",http://my.brla.gov/dept/planning/calendar/may.htm,1,1,9.0,100,0.0,0.0
+my.brla.gov,2016,"['', 'services.asp']",http://my.brla.gov/services.asp,6,3,6.61,0,0.0,0.0
+my.brla.gov,2019,"['', '']",http://my.brla.gov/,0,0,0.0,0,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'dpw', '']",http://my.brla.gov/dept/dpw/,3,3,17.5,0,0.0,25.0
+my.brla.gov,2017,"['', 'dept', 'planning', 'calendar', 'april.htm']",http://my.brla.gov/dept/planning/calendar/april.htm,1,1,16.0,0,0.0,0.0
+my.brla.gov,2016,"['', 'dept', 'parishattorney', 'goto.htm']",http://my.brla.gov/dept/parishattorney/goto.htm,1,1,19.0,0,0.0,0.0
+my.brla.gov,2016,"['', 'metro21', '']",http://my.brla.gov/metro21/,1,1,43.0,0,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'planning', 'comprehensiveplan', 'comprehensive.htm']",http://my.brla.gov/dept/planning/comprehensiveplan/comprehensive.htm,2,1,12.0,0,0.0,50.0
+my.brla.gov,2016,"['', 'directory.asp']",http://my.brla.gov/directory.asp,8,7,8.33,100,16.67,58.33
+my.brla.gov,2018,"['', 'dept', 'oep', 'emergencylinks.asp']",http://my.brla.gov/dept/oep/emergencylinks.asp,2,1,49.0,0,0.0,50.0
+my.brla.gov,2017,"['', 'dept', 'hr', 'walkin.htm']",http://my.brla.gov/dept/hr/walkin.htm,1,1,63.0,0,0.0,0.0
+my.brla.gov,2017,"['', 'govt', 'agendas.asp']",http://my.brla.gov/govt/agendas.asp,6,4,30.11,0,0.0,8.33
+my.brla.gov,2017,"['', 'dept', 'planning', 'meetingsagendas.htm']",http://my.brla.gov/dept/planning/meetingsagendas.htm,2,2,0.0,0,0.0,100.0
+my.brla.gov,2023,"['', '']",http://my.brla.gov/,560249,298706,17.56,323707,0.42,0.61
+my.brla.gov,2018,"['', 'search.asp']",http://my.brla.gov/search.asp,5,4,33.5,0,0.0,12.5
+my.brla.gov,2017,"['', 'search.asp']",http://my.brla.gov/search.asp,59,30,88.18,238,5.88,24.55
+my.brla.gov,2017,"['', 'dept', 'hr', '']",http://my.brla.gov/dept/hr/,43,33,36.29,114,0.0,7.29
+my.brla.gov,2017,"['', 'dept', 'council', 'code.asp']",http://my.brla.gov/dept/council/code.asp,3,3,0.0,0,0.0,100.0
+my.brla.gov,2016,"['', 'econdev', '']",http://my.brla.gov/econdev/,1,1,267.0,0,0.0,0.0
+my.brla.gov,2016,"['', 'dept', 'brpd', 'csr', 'district.asp']",http://my.brla.gov/dept/brpd/csr/district.asp,6,4,9.67,0,0.0,0.0
+my.brla.gov,2022,"['', '2577', 'historic-districts']",http://my.brla.gov/2577/historic-districts,1,1,0.0,100,100.0,100.0
+my.brla.gov,2023,"['', 'admin']",http://my.brla.gov/admin,1,1,0.0,100,100.0,100.0
+my.brla.gov,2016,"['', 'search.asp']",http://my.brla.gov/search.asp,18,6,15.17,33,0.0,12.5
+my.brla.gov,2017,"['', 'dept', 'hr', 'recruitforms.htm']",http://my.brla.gov/dept/hr/recruitforms.htm,1,1,0.0,0,0.0,100.0
+my.brla.gov,2018,"['', '']",http://my.brla.gov/,105,71,26.19,1181,5.14,5.84
+my.brla.gov,2017,"['', 'aboutus.htm']",http://my.brla.gov/aboutus.htm,3,3,7.5,50,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'hr', 'jobdesc.asp']",http://my.brla.gov/dept/hr/jobdesc.asp,31,20,30.53,50,0.0,5.26
+my.brla.gov,2017,"['', 'dept', 'planning', 'includes', 'publications.htm']",http://my.brla.gov/dept/planning/includes/publications.htm,1,1,9.0,0,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'oep', '']",http://my.brla.gov/dept/oep/,1,1,0.0,0,0.0,100.0
+my.brla.gov,2018,"['', 'oserv.htm']",http://my.brla.gov/oserv.htm,7,5,16.3,350,60.0,70.0
+my.brla.gov,2017,"['', 'dept', 'council', 'mc04.asp']",http://my.brla.gov/dept/council/mc04.asp,1,1,0.0,0,0.0,100.0
+my.brla.gov,2017,"['', 'dept', 'hr', 'download.htm']",http://my.brla.gov/dept/hr/download.htm,3,2,74.0,0,0.0,33.33
+my.brla.gov,2018,"['', 'govt', '']",http://my.brla.gov/govt/,3,1,54.0,33,0.0,33.33
+my.brla.gov,2018,"['', 'view-data']",http://my.brla.gov/view-data,164,127,139.36,442,6.7,75.57
+my.brla.gov,2017,"['', 'dept', 'dpw', 'inspections', 'rpermitinfo.htm']",http://my.brla.gov/dept/dpw/inspections/rpermitinfo.htm,2,1,128.5,0,0.0,0.0
+my.brla.gov,2019,"['', 'view-data']",http://my.brla.gov/view-data,189,149,112.48,685,6.58,70.97
+my.brla.gov,2017,"['', 'dept', 'council', 'mc02.asp']",http://my.brla.gov/dept/council/mc02.asp,3,2,18.33,0,0.0,0.0
+my.brla.gov,2021,"['', 'dashboard']",http://my.brla.gov/dashboard,46828,39410,77.31,505347,45.65,53.54
+my.brla.gov,2017,"['', 'dept', 'citycourt', 'warrants', 'detail.asp']",http://my.brla.gov/dept/citycourt/warrants/detail.asp,10,8,45.25,100,12.5,12.5
+my.brla.gov,2017,"['', 'dept', 'citycourt', 'warrants', '']",http://my.brla.gov/dept/citycourt/warrants/,37,14,28.35,0,0.0,18.37
+my.brla.gov,2017,"['', 'dept', 'hr', 'faq.htm']",http://my.brla.gov/dept/hr/faq.htm,2,2,8.0,0,0.0,0.0
+my.brla.gov,2018,"['', 'dept', 'council', 'councilsubmit.asp']",http://my.brla.gov/dept/council/councilsubmit.asp,1,1,0.0,0,0.0,100.0
+my.brla.gov,2017,"['', 'traffic', '']",http://my.brla.gov/traffic/,3,3,22.5,0,0.0,0.0
+my.brla.gov,2016,"['', 'govt', 'agendas.asp']",http://my.brla.gov/govt/agendas.asp,1,1,26.0,0,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'ers', '']",http://my.brla.gov/dept/ers/,1,1,0.0,0,0.0,100.0
+my.brla.gov,2022,"['', 'view-data']",http://my.brla.gov/view-data,394,332,142.16,1082,8.99,68.21
+my.brla.gov,2017,"['', 'adjudicated', '']",http://my.brla.gov/adjudicated/,2,2,0.0,0,0.0,100.0
+my.brla.gov,2017,"['', 'dept', 'hr', 'intern.htm']",http://my.brla.gov/dept/hr/intern.htm,8,2,30.5,0,0.0,33.33
+my.brla.gov,2017,"['', 'dept', 'council', 'previousminutes.asp']",http://my.brla.gov/dept/council/previousminutes.asp,1,1,0.0,0,0.0,100.0
+my.brla.gov,2017,"['', 'dept', 'dpw', 'traffic', '']",http://my.brla.gov/dept/dpw/traffic/,2,1,37.0,0,0.0,50.0
+my.brla.gov,2017,"['', 'dept', 'mayor', 'staffbio.htm']",http://my.brla.gov/dept/mayor/staffbio.htm,1,1,0.0,0,0.0,100.0
+my.brla.gov,2017,"['', 'dept', 'dpw', 'solidwaste', 'automated.htm']",http://my.brla.gov/dept/dpw/solidwaste/automated.htm,5,3,23.17,0,0.0,77.78
+my.brla.gov,2016,"['', 'govt', '']",http://my.brla.gov/govt/,2,2,9.0,100,50.0,50.0
+my.brla.gov,2017,"['', 'dept', 'hr', 'occdesc.asp']",http://my.brla.gov/dept/hr/occdesc.asp,9,7,13.36,0,0.0,28.57
+my.brla.gov,2017,"['', 'dept', 'council', 'mc07.asp']",http://my.brla.gov/dept/council/mc07.asp,2,2,0.0,0,0.0,100.0
+my.brla.gov,2017,"['', 'dept', 'council', 'expire.asp']",http://my.brla.gov/dept/council/expire.asp,29,21,9.64,0,0.0,10.53
+my.brla.gov,2022,"['', '']",http://my.brla.gov/,23237,12981,7.82,14018,0.19,0.27
+my.brla.gov,2019,"['', 'dashboard']",http://my.brla.gov/dashboard,40702,35330,85.09,574528,53.78,62.52
+my.brla.gov,2017,"['', 'dept', 'council', 'mc05.asp']",http://my.brla.gov/dept/council/mc05.asp,1,1,0.0,100,100.0,100.0
+my.brla.gov,2023,"['', 'dashboard']",http://my.brla.gov/dashboard,20189,17235,80.17,280368,52.08,58.31
+my.brla.gov,2018,"['', 'dept', 'recycle', '']",http://my.brla.gov/dept/recycle/,6,5,20.0,450,80.0,90.0
+my.brla.gov,2021,"['', 'ebfucbbee']",http://my.brla.gov/ebfucbbee,2,2,0.0,100,0.0,100.0
+my.brla.gov,2017,"['', 'dept', 'citycourt', 'trafficforms.htm']",http://my.brla.gov/dept/citycourt/trafficforms.htm,2,1,66.0,0,0.0,50.0
+my.brla.gov,2017,"['', 'view-data']",http://my.brla.gov/view-data,341,282,120.73,651,9.33,77.26
+my.brla.gov,2017,"['', 'plan', 'ch6.htm']",http://my.brla.gov/plan/ch6.htm,1,1,10.0,0,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'brpd', 'administration.htm']",http://my.brla.gov/dept/brpd/administration.htm,1,1,8.0,0,0.0,0.0
+my.brla.gov,2021,"['', 'about-page']",http://my.brla.gov/about-page,2,1,11.0,0,0.0,50.0
+my.brla.gov,2016,"['', 'adjudicated', '']",http://my.brla.gov/adjudicated/,7,3,287.25,43,0.0,42.86
+my.brla.gov,2017,"['', 'dept', 'dpw', 'solidwaste', '']",http://my.brla.gov/dept/dpw/solidwaste/,5,5,12.67,33,33.33,66.67
+my.brla.gov,2017,"['', 'dept', 'council', '']",http://my.brla.gov/dept/council/,6,5,46.17,17,0.0,0.0
+my.brla.gov,2021,"['', 'view-data']",http://my.brla.gov/view-data,452,369,103.23,1676,9.81,67.51
+my.brla.gov,2017,"['', '']",http://my.brla.gov/,333,257,29.41,4195,15.16,16.24
+my.brla.gov,2017,"['', 'dept', 'council', 'councilform.asp']",http://my.brla.gov/dept/council/councilform.asp,1,1,88.0,0,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'hr', 'contlist.asp']",http://my.brla.gov/dept/hr/contlist.asp,10,7,6.8,0,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'brpd', '']",http://my.brla.gov/dept/brpd/,9,9,16.57,233,14.29,19.05
+my.brla.gov,2016,"['', '']",http://my.brla.gov/,91,71,43.26,1027,69.25,68.71
+my.brla.gov,2017,"['', 'dept', 'brpd', 'phone.htm']",http://my.brla.gov/dept/brpd/phone.htm,5,4,42.75,150,25.0,62.5
+my.brla.gov,2017,"['', 'dept', 'council', 'boarddetail.asp']",http://my.brla.gov/dept/council/boarddetail.asp,16,13,13.63,0,0.0,0.0
+my.brla.gov,2023,"['', 'login']",http://my.brla.gov/login,1869,1392,21.82,1810,0.26,0.29
+my.brla.gov,2017,"['', 'dept', 'planning', 'comprehensiveplan', 'smallareaplans.htm']",http://my.brla.gov/dept/planning/comprehensiveplan/smallareaplans.htm,1,1,22.0,0,0.0,0.0
+my.brla.gov,2017,"['', 'arounddet.asp']",http://my.brla.gov/arounddet.asp,7,7,2.57,0,0.0,71.43
+my.brla.gov,2016,"['', 'arounddet.asp']",http://my.brla.gov/arounddet.asp,7,6,66.17,0,0.0,38.89
+my.brla.gov,2015,"['', 'mugshot']",http://my.brla.gov/mugshot,1,1,0.0,0,0.0,100.0
+my.brla.gov,2017,"['', 'dept', 'ada', '']",http://my.brla.gov/dept/ada/,1,1,10.0,0,0.0,0.0
+my.brla.gov,2016,"['', 'oserv.htm']",http://my.brla.gov/oserv.htm,1,1,38.0,0,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'hr', 'curlist.asp']",http://my.brla.gov/dept/hr/curlist.asp,41,28,55.51,17,4.76,54.29
+my.brla.gov,2017,"['', 'dept', 'planning', 'futurebr', 'futurebr.htm']",http://my.brla.gov/dept/planning/futurebr/futurebr.htm,1,1,242.0,0,0.0,0.0
+my.brla.gov,2017,"['', 'dashboard']",http://my.brla.gov/dashboard,19218,16798,77.66,209659,49.9,73.47
+my.brla.gov,2017,"['', 'press.asp']",http://my.brla.gov/press.asp,2,2,0.0,0,0.0,100.0
+my.brla.gov,2017,"['', 'dept', 'dpw', 'drainage.htm']",http://my.brla.gov/dept/dpw/drainage.htm,3,1,19.33,0,0.0,0.0
+my.brla.gov,2022,"['', 'dashboard']",http://my.brla.gov/dashboard,41713,35397,79.79,506830,49.16,57.75
+my.brla.gov,2016,"['', 'press.asp']",http://my.brla.gov/press.asp,5,4,335.0,0,0.0,88.89
+my.brla.gov,2017,"['', 'oserv.htm']",http://my.brla.gov/oserv.htm,16,12,47.48,83,0.0,20.83
+my.brla.gov,2017,"['', 'dept', 'hr', 'insurance.htm']",http://my.brla.gov/dept/hr/insurance.htm,2,2,31.0,0,0.0,0.0
+my.brla.gov,2018,"['', 'dept', 'council', 'expire.asp']",http://my.brla.gov/dept/council/expire.asp,6,1,80.5,0,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'planning_old', 'meetingsagendas_copy(1).htm']",http://my.brla.gov/dept/planning_old/meetingsagendas_copy(1).htm,3,1,38.33,0,0.0,0.0
+my.brla.gov,2016,"['', 'getsocial']",http://my.brla.gov/getsocial,3,3,0.0,200,100.0,100.0
+my.brla.gov,2023,"['', 'view-data']",http://my.brla.gov/view-data,210,171,139.54,1183,15.79,72.18
+my.brla.gov,2017,"['', 'govt', '']",http://my.brla.gov/govt/,11,9,20.75,100,0.0,27.78
+my.brla.gov,2017,"['', 'dept', 'brpd', 'org.htm']",http://my.brla.gov/dept/brpd/org.htm,5,4,15.22,0,0.0,0.0
+my.brla.gov,2018,"['', 'arounddet.asp']",http://my.brla.gov/arounddet.asp,1,1,0.0,0,0.0,100.0
+my.brla.gov,2017,"['', 'contactus.asp']",http://my.brla.gov/contactus.asp,1,1,10.0,0,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'citycourt', 'divisions.htm']",http://my.brla.gov/dept/citycourt/divisions.htm,2,1,51.5,0,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'dpw', 'inspections', '']",http://my.brla.gov/dept/dpw/inspections/,17,11,43.52,0,0.0,75.45
+my.brla.gov,2020,"['', 'coronavirus']",http://my.brla.gov/coronavirus,2,2,0.0,0,0.0,100.0
+my.brla.gov,2017,"['', 'dept', 'recycle', 'contact.htm']",http://my.brla.gov/dept/recycle/contact.htm,2,2,14.0,0,0.0,0.0
+my.brla.gov,2015,"['', '']",http://my.brla.gov/,10,7,147.33,210,33.33,47.78
+my.brla.gov,2017,"['', 'dept', 'parishattorney', 'goto.htm']",http://my.brla.gov/dept/parishattorney/goto.htm,1,1,6.0,0,0.0,0.0
+my.brla.gov,2016,"['', 'dept', 'planning', 'census10', '']",http://my.brla.gov/dept/planning/census10/,2,2,8.5,0,0.0,0.0
+my.brla.gov,2022,"['', '176', 'dog-regulations']",http://my.brla.gov/176/dog-regulations,1,1,0.0,100,100.0,100.0
+my.brla.gov,2020,"['', '']",http://my.brla.gov/,0,0,0.0,0,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'brpd', 'operservices.htm']",http://my.brla.gov/dept/brpd/operservices.htm,2,2,19.0,0,0.0,50.0
+my.brla.gov,2017,"['', 'dept', 'council', 'map.asp']",http://my.brla.gov/dept/council/map.asp,3,2,7.75,0,0.0,0.0
+my.brla.gov,2016,"['', 'dept', 'mayor', '']",http://my.brla.gov/dept/mayor/,1,1,0.0,0,0.0,100.0
+my.brla.gov,2017,"['', 'dept', 'finance', 'ordrollingvendor11561.htm']",http://my.brla.gov/dept/finance/ordrollingvendor11561.htm,2,1,551.5,0,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'recycle', '']",http://my.brla.gov/dept/recycle/,9,7,45.61,383,16.67,41.67
+my.brla.gov,2020,"['', 'view-data']",http://my.brla.gov/view-data,278,236,99.84,1418,10.32,70.67
+my.brla.gov,2017,"['', 'dept', 'parishattorney', '']",http://my.brla.gov/dept/parishattorney/,4,4,15.75,100,0.0,25.0
+my.brla.gov,2017,"['', 'dept', 'council', 'mc01.asp']",http://my.brla.gov/dept/council/mc01.asp,4,3,22.0,0,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'dpw', 'traffic', 'closures.asp']",http://my.brla.gov/dept/dpw/traffic/closures.asp,3,3,1.0,0,0.0,66.67
+my.brla.gov,2017,"['', 'dept', 'planning', '']",http://my.brla.gov/dept/planning/,3,3,5.33,0,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'recycle', 'faq.htm']",http://my.brla.gov/dept/recycle/faq.htm,3,3,14.67,100,0.0,33.33
+my.brla.gov,2017,"['', 'dept', 'crkcc', '']",http://my.brla.gov/dept/crkcc/,1,1,0.0,100,100.0,100.0
+my.brla.gov,2016,"['', 'dept', 'brpd', 'csr', '']",http://my.brla.gov/dept/brpd/csr/,3,3,8.0,0,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'finance', 'businessregistration.htm']",http://my.brla.gov/dept/finance/businessregistration.htm,1,1,6.0,0,0.0,0.0
+my.brla.gov,2016,"['', 'dept', 'crkcc', 'programs.htm']",http://my.brla.gov/dept/crkcc/programs.htm,4,1,652.0,25,0.0,25.0
+my.brla.gov,2017,"['', 'dept', 'planning', 'calendar', 'february.htm']",http://my.brla.gov/dept/planning/calendar/february.htm,2,2,39.5,0,0.0,0.0
+my.brla.gov,2017,"['', 'services.asp']",http://my.brla.gov/services.asp,37,22,25.22,111,0.0,16.67
+my.brla.gov,2017,"['', 'dept', 'council', 'mc12.asp']",http://my.brla.gov/dept/council/mc12.asp,2,2,4.0,0,0.0,50.0
+my.brla.gov,2021,"['', '']",http://my.brla.gov/,1,1,0.0,100,14.29,14.29
+my.brla.gov,2016,"['', 'browse']",http://my.brla.gov/browse,1,1,8.0,100,0.0,0.0
+my.brla.gov,2018,"['', 'dashboard']",http://my.brla.gov/dashboard,30454,26190,86.76,357087,50.69,60.51
+my.brla.gov,2017,"['', 'dashboa']",http://my.brla.gov/dashboa,1,1,0.0,100,0.0,100.0
+my.brla.gov,2020,"['', 'covidworkshop']",http://my.brla.gov/covidworkshop,1,1,0.0,100,100.0,100.0
+my.brla.gov,2017,"['', 'usersguide.htm']",http://my.brla.gov/usersguide.htm,2,2,15.0,0,0.0,0.0
+my.brla.gov,2017,"['', 'metro21', 'stream.asp']",http://my.brla.gov/metro21/stream.asp,6,3,74.4,0,0.0,16.67
+my.brla.gov,2020,"['', 'dashboard']",http://my.brla.gov/dashboard,61926,54664,87.69,684660,52.73,64.88
+my.brla.gov,2016,"['', 'contactus.asp']",http://my.brla.gov/contactus.asp,1,1,0.0,0,0.0,100.0
+my.brla.gov,2016,"['', 'dept', 'planning', 'census10', 'censusinfo.asp']",http://my.brla.gov/dept/planning/census10/censusinfo.asp,3,3,19.33,0,0.0,0.0
+my.brla.gov,2017,"['', 'around.asp']",http://my.brla.gov/around.asp,2,2,32.0,0,0.0,0.0
+my.brla.gov,2016,"['', 'proposed.htm']",http://my.brla.gov/proposed.htm,1,1,0.0,0,0.0,100.0
+my.brla.gov,2017,"['', 'dept', 'oep', 'emergencylinks.asp']",http://my.brla.gov/dept/oep/emergencylinks.asp,5,3,45.33,0,0.0,25.0
+my.brla.gov,2016,"['', 'traffic', '']",http://my.brla.gov/traffic/,1,1,29.0,0,0.0,0.0
+my.brla.gov,2017,"['', 'metro21', '']",http://my.brla.gov/metro21/,1,1,39.0,0,0.0,0.0
+my.brla.gov,2018,"['', 'dept', 'parishattorney', '']",http://my.brla.gov/dept/parishattorney/,1,1,23.0,0,0.0,0.0
+my.brla.gov,2017,"['', 'dashboard', '']",http://my.brla.gov/dashboard/,1,1,4.0,0,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'recycle', 'householdhazardous.htm']",http://my.brla.gov/dept/recycle/householdhazardous.htm,1,1,0.0,0,0.0,100.0
+my.brla.gov,2016,"['', 'dept', 'dpw', 'inspections', '']",http://my.brla.gov/dept/dpw/inspections/,2,2,11.0,0,0.0,50.0
+my.brla.gov,2017,"['', 'dept', 'brpd', 'faq.htm']",http://my.brla.gov/dept/brpd/faq.htm,2,2,16.0,100,0.0,50.0
+my.brla.gov,2016,"['', 'usersguide.htm']",http://my.brla.gov/usersguide.htm,1,1,5.0,100,0.0,0.0
+my.brla.gov,2022,"['', '223', 'annual-comprehensive-financial-reports']",http://my.brla.gov/223/annual-comprehensive-financial-reports,1,1,0.0,100,100.0,100.0
+my.brla.gov,2017,"['', 'directory.asp']",http://my.brla.gov/directory.asp,38,29,31.89,250,7.14,38.64
+my.brla.gov,2017,"['', 'transition', '']",http://my.brla.gov/transition/,4,3,173.5,0,0.0,50.0
+my.brla.gov,2017,"['', 'dept', 'mayor', '100days.htm']",http://my.brla.gov/dept/mayor/100days.htm,2,2,0.0,100,50.0,100.0
+my.brla.gov,2018,"['', 'dept', 'recycle', 'oilantifreeze.htm']",http://my.brla.gov/dept/recycle/oilantifreeze.htm,2,2,5.0,0,0.0,0.0
+my.brla.gov,2016,"['', 'dept', 'cadmin', '']",http://my.brla.gov/dept/cadmin/,1,1,0.0,0,0.0,100.0
+my.brla.gov,2017,"['', 'plan', '']",http://my.brla.gov/plan/,2,2,10.5,0,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'hr', 'joblistall.asp']",http://my.brla.gov/dept/hr/joblistall.asp,9,2,7.58,0,0.0,0.0
+my.brla.gov,2017,"['', 'dept', 'brpd', 'resourcelinks.htm']",http://my.brla.gov/dept/brpd/resourcelinks.htm,1,1,333.0,0,0.0,0.0
