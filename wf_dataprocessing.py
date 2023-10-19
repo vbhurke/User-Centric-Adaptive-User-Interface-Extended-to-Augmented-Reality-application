@@ -2,8 +2,18 @@ import csv
 import os
 import pandas as pd
 
-file_name=os.getcwd()+"\data_original\Website_Analytics_20231015.csv"
-df=pd.read_csv(file_name)
+files = os.listdir(os.getcwd()+"\data_original")
+directory=os.getcwd()+"\data_original"
+# Filter files that start with "Website_Analytics_"
+matching_files = [file for file in files if file.startswith('Website_Analytics_')]
+
+# Assuming you only have one matching file, read it
+if len(matching_files) == 1:
+    file_path = os.path.join(directory, matching_files[0])
+    ### Load original dataset    
+    df=pd.read_csv(file_path)
+    file_name=file_path
+
 i=0
 j=0
 k=0

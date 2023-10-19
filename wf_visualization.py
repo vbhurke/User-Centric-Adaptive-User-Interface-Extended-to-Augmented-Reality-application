@@ -4,6 +4,17 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt 
 
+files = os.listdir(os.getcwd()+"\data_original")
+directory=os.getcwd()+"\data_original"
+# Filter files that start with "Website_Analytics_"
+matching_files = [file for file in files if file.startswith('Website_Analytics_')]
+
+# Assuming you only have one matching file, read it
+if len(matching_files) == 1:
+    file_path = os.path.join(directory, matching_files[0])
+    ### Load original dataset    
+    dfo=pd.read_csv(file_path)
+
 ### Creating list to store dataframes
 df_freq={}
 df_processed=[]
@@ -18,8 +29,6 @@ for i in range (1,12):
     ### Calculate total entries in dataset
     r=r+len(dft)
     
-### Load original dataset    
-dfo=pd.read_csv(os.getcwd()+"\data_original\Website_Analytics_20231015.csv")
 ### Check if all entries are gathered
 if(r==len(dfo)):
     print("Successfully mungged the data. Total Data : "+str(r))
@@ -31,7 +40,7 @@ webs=list(df_freq_sorted.items())
 webs_det=[]
 
 web_r=[]
-web_r.append(['WEBSITES','DATASET ENTRIES','TOTAL VIEWS','MAX VIEWS','MIN VIEWS','MEDIAN VIEWS','MAX AVG TIME','MIN AVG TIME','MEDIAN AVG TIME','MAX ENTRANCES','MIN ENTRANCES','MEDIAN ENTRANCES','MAX UNIQUE VIEWS','MIN UNIQUE VIEWS','MEDIAN UNIQUE VIEWS','HIGHEST PATH WITH ()'])
+web_r.append(['WEBSITES','DATASET ENTRIES','TOTAL VIEWS','MAX VIEWS','MIN VIEWS','MEDIAN VIEWS','MAX AVG TIME','MIN AVG TIME','MEDIAN AVG TIME','MAX ENTRANCES','MIN ENTRANCES','MEDIAN ENTRANCES','MAX UNIQUE VIEWS','MIN UNIQUE VIEWS','MEDIAN UNIQUE VIEWS','HIGHEST PATH WITH ()','LOWEST PATH WITH ()'])
 ### Declare Variable for correalation
 Corr_all=[]
 Corr_name=[]
@@ -94,6 +103,7 @@ for s in range(len(df_processed)):
     ppcurr=list(p_curr_sorted.items())
     if(len(ppcurr)>=1):
         pp_cur=ppcurr[0]
+        pp_cur_least=ppcurr[-1]
         ### Plot histogram of popular path based on page views
         x_a=list(p_curr_sorted.keys())
         y_a=list(p_curr_sorted.values())
@@ -120,6 +130,7 @@ for s in range(len(df_processed)):
             
     else:
         pp_cur=("''",0)
+        pp_cur_least=("''",0)
         plt.hist(indi_path)
         plt.xlabel("Paths")
         plt.ylabel("No. of Unique Views")
@@ -135,7 +146,7 @@ for s in range(len(df_processed)):
     ### Calculate total views on website
     for s in range(len(curr_df)):
         total_views=total_views+curr_df.iloc[s][4]
-    df_r=[curr_df.iloc[0][0],df_freq[curr_df.iloc[0][0]],total_views,max_views,min_views,mid_views,max_avgt,min_avgt,mid_avgt,max_ent,min_ent,mid_ent,max_uni,min_uni,mid_uni,pp_cur]
+    df_r=[curr_df.iloc[0][0],df_freq[curr_df.iloc[0][0]],total_views,max_views,min_views,mid_views,max_avgt,min_avgt,mid_avgt,max_ent,min_ent,mid_ent,max_uni,min_uni,mid_uni,pp_cur,pp_cur_least]
     web_r.append(df_r)
 
     ### store Correlation matrix
