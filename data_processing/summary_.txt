@@ -1,0 +1,12 @@
+Linear Regression : 
+Training Data Shape: (14616, 9)
+Testing Data Shape:(5776, 9)
+Mean Squared Error : 311.28370933504226
+R^2 Score : 0.5875860033836517
+K-Means Clusterring (clusters 10) : 
+Silhouette Score: 0.9461139974973565
+Davies-Bouldin Index: 0.4508606553227736
+KNN Classifier (neighbours = 5): 
+KNN Accuracy : 0.015408587257617729
+KNN Classifier (neighbours = 7): 
+KNN Accuracy (neighbours = 7): 1.0
