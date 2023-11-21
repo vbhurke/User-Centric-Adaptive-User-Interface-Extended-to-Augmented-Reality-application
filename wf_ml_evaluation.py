@@ -78,20 +78,20 @@ to_summary.append("Davies-Bouldin Index: "+str(db_index))
 
 to_summary.append("KNN Classifier (neighbours = 5): ")
 knn_X_test, knn_y_test = wf_ml_training.knn(df_1,5)
-knn_y_pred = wf_ml_prediction.knn_prediction(knn_X_test)
+knn_y_pred = wf_ml_prediction.knn_prediction(knn_X_test,5)
 
 
 knn_accuracy = accuracy_score(knn_y_test, knn_y_pred)
 print("KNN Accuracy:", knn_accuracy)
 to_summary.append("KNN Accuracy : "+str(knn_accuracy))
 
-to_summary.append("KNN Classifier (neighbours = 20): ")
-knn_X_test, knn_y_test = wf_ml_training.knn(df_1,20)
-knn_y_pred = wf_ml_prediction.knn_prediction(knn_X_test)
+to_summary.append("KNN Classifier (neighbours = 7): ")
+knn_X_test, knn_y_test = wf_ml_training.knn(df_1,7)
+knn_y_pred = wf_ml_prediction.knn_prediction(knn_X_test,10)
 
 knn_accuracy = accuracy_score(knn_y_test, knn_y_pred)
 print("KNN Accuracy:", knn_accuracy)
-to_summary.append("KNN Accuracy (neighbours = 20): "+str(knn_accuracy))
+to_summary.append("KNN Accuracy (neighbours = 7): "+str(knn_accuracy))
 
 summary_text=os.getcwd()+"\data_processing\summary_.txt"
 with open(summary_text, 'w') as f:
