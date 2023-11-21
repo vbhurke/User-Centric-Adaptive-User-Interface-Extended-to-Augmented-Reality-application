@@ -73,6 +73,25 @@ Raw Data: EXIT RATE (%)
 This contains the rate at which users leave the website.
 Interpretation: The exit rate will help identify if the webpage was left abruptly or traversed within the website to different webpage from the website.
 
+Explainable Records
+Record 1
+Raw Data:
+WEBSITE	PAGE PATH	PAGE URL	PAGE VIEWS	UNIQUE VIEWS	AVERAGE TIME ON PAGE (SECONDS)	ENTRANCES	BOUNCE RATE (%)	EXIT RATE (%)	
+www.brla.gov	['', '2191', 'pillar-3-culture-and-art-engagements']	http://www.brla.gov/2191/pillar-3-culture-and-art-engagements	18	17	22.56	50	0.75	3.12	
+
+
+Prediction Explanation: K-Means Predictions = 4
+The k-means prediction helps identify the cluster with the closest proximity. The cluster indicates that the web path selected belongs to cluster 4 and shows similar trends to paths of cluster 4. In this cluster the values for entrances and page views are close but low. Indicating the path has small activity and is required to be optimized. This cluster has low potential but should be further looked into for improvement.
+
+Record 2
+Raw Data: 
+WEBSITE	PAGE PATH	PAGE URL	PAGE VIEWS	UNIQUE VIEWS	AVERAGE TIME ON PAGE (SECONDS)	ENTRANCES	BOUNCE RATE (%)	EXIT RATE (%)	
+
+www.brla.gov	['', '2760', 'land-use']	http://www.brla.gov/2760/land-use	2	1	17.5	0	0	0	
+
+
+Prediction Explanation: K-Means Predictions   = 8
+The given section clusters towards the 8th cluster of the model. It indicates in the cluster 8, which is implies highly insignificant path. We notice it has very low page views and entrances indicating the low use and need of this web path.  
 
 
 Background Domain Knowledge
