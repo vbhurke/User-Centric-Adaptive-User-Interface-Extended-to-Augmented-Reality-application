@@ -2,23 +2,12 @@ Correlation Matrix for www.brla.gov :
 
 
                                 PAGE VIEWS  UNIQUE VIEWS  AVERAGE TIME ON PAGE (SECONDS)  ENTRANCES  BOUNCE RATE (%)  EXIT RATE (%)
-PAGE VIEWS                        1.000000      0.995726                        0.006006   0.850844         0.023668       0.013457
-UNIQUE VIEWS                      0.995726      1.000000                        0.005235   0.854081         0.022339       0.012849
-AVERAGE TIME ON PAGE (SECONDS)    0.006006      0.005235                        1.000000   0.006845        -0.082738      -0.117262
-ENTRANCES                         0.850844      0.854081                        0.006845   1.000000         0.040643       0.031461
-BOUNCE RATE (%)                   0.023668      0.022339                       -0.082738   0.040643         1.000000       0.815142
-EXIT RATE (%)                     0.013457      0.012849                       -0.117262   0.031461         0.815142       1.000000
-
-Correlation Matrix for data.brla.gov :
-
-
-                                PAGE VIEWS  UNIQUE VIEWS  AVERAGE TIME ON PAGE (SECONDS)  ENTRANCES  BOUNCE RATE (%)  EXIT RATE (%)
-PAGE VIEWS                        1.000000      0.909651                       -0.006745   0.509710         0.004322      -0.002672
-UNIQUE VIEWS                      0.909651      1.000000                       -0.007358   0.653191         0.013092       0.000388
-AVERAGE TIME ON PAGE (SECONDS)   -0.006745     -0.007358                        1.000000   0.005522        -0.072160      -0.098063
-ENTRANCES                         0.509710      0.653191                        0.005522   1.000000         0.134265       0.108614
-BOUNCE RATE (%)                   0.004322      0.013092                       -0.072160   0.134265         1.000000       0.754835
-EXIT RATE (%)                    -0.002672      0.000388                       -0.098063   0.108614         0.754835       1.000000
+PAGE VIEWS                        1.000000      0.995480                        0.004190   0.913253         0.017937       0.008914
+UNIQUE VIEWS                      0.995480      1.000000                        0.003592   0.920525         0.017070       0.008647
+AVERAGE TIME ON PAGE (SECONDS)    0.004190      0.003592                        1.000000   0.004972        -0.081905      -0.115269
+ENTRANCES                         0.913253      0.920525                        0.004972   1.000000         0.032053       0.023643
+BOUNCE RATE (%)                   0.017937      0.017070                       -0.081905   0.032053         1.000000       0.816566
+EXIT RATE (%)                     0.008914      0.008647                       -0.115269   0.023643         0.816566       1.000000
 
 Correlation Matrix for brgov.com :
 
@@ -31,38 +20,60 @@ ENTRANCES                         0.350911      0.451787                        
 BOUNCE RATE (%)                   0.031898      0.038040                       -0.080388   0.060838         1.000000       0.765973
 EXIT RATE (%)                    -0.001812      0.002735                       -0.123137   0.035925         0.765973       1.000000
 
+Correlation Matrix for data.brla.gov :
+
+
+                                PAGE VIEWS  UNIQUE VIEWS  AVERAGE TIME ON PAGE (SECONDS)  ENTRANCES  BOUNCE RATE (%)  EXIT RATE (%)
+PAGE VIEWS                        1.000000      0.905897                       -0.006725   0.495145        -0.000277      -0.005863
+UNIQUE VIEWS                      0.905897      1.000000                       -0.008281   0.650730         0.005381      -0.006072
+AVERAGE TIME ON PAGE (SECONDS)   -0.006725     -0.008281                        1.000000   0.004772        -0.066854      -0.091067
+ENTRANCES                         0.495145      0.650730                        0.004772   1.000000         0.127906       0.102681
+BOUNCE RATE (%)                  -0.000277      0.005381                       -0.066854   0.127906         1.000000       0.755857
+EXIT RATE (%)                    -0.005863     -0.006072                       -0.091067   0.102681         0.755857       1.000000
+
 Correlation Matrix for budget.brla.gov :
 
 
                                 PAGE VIEWS  UNIQUE VIEWS  AVERAGE TIME ON PAGE (SECONDS)  ENTRANCES  BOUNCE RATE (%)  EXIT RATE (%)
-PAGE VIEWS                        1.000000      0.956323                        0.005241   0.512332         0.092991       0.012374
-UNIQUE VIEWS                      0.956323      1.000000                        0.003209   0.528420         0.047881       0.004573
-AVERAGE TIME ON PAGE (SECONDS)    0.005241      0.003209                        1.000000   0.008166        -0.006618      -0.063364
-ENTRANCES                         0.512332      0.528420                        0.008166   1.000000         0.204256       0.056902
-BOUNCE RATE (%)                   0.092991      0.047881                       -0.006618   0.204256         1.000000       0.292984
-EXIT RATE (%)                     0.012374      0.004573                       -0.063364   0.056902         0.292984       1.000000
+PAGE VIEWS                        1.000000      0.976218                        0.003263   0.610000         0.068716       0.007572
+UNIQUE VIEWS                      0.976218      1.000000                        0.001644   0.618791         0.034030       0.001619
+AVERAGE TIME ON PAGE (SECONDS)    0.003263      0.001644                        1.000000   0.007174        -0.006630      -0.063399
+ENTRANCES                         0.610000      0.618791                        0.007174   1.000000         0.188291       0.051556
+BOUNCE RATE (%)                   0.068716      0.034030                       -0.006630   0.188291         1.000000       0.292990
+EXIT RATE (%)                     0.007572      0.001619                       -0.063399   0.051556         0.292990       1.000000
 
 Correlation Matrix for my.brla.gov :
 
 
                                 PAGE VIEWS  UNIQUE VIEWS  AVERAGE TIME ON PAGE (SECONDS)  ENTRANCES  BOUNCE RATE (%)  EXIT RATE (%)
-PAGE VIEWS                        1.000000      0.994025                       -0.014269   0.413717         0.020128      -0.053057
-UNIQUE VIEWS                      0.994025      1.000000                       -0.008514   0.509860         0.049952      -0.040233
-AVERAGE TIME ON PAGE (SECONDS)   -0.014269     -0.008514                        1.000000   0.042064        -0.095325      -0.151370
-ENTRANCES                         0.413717      0.509860                        0.042064   1.000000         0.263653       0.084034
-BOUNCE RATE (%)                   0.020128      0.049952                       -0.095325   0.263653         1.000000       0.464867
-EXIT RATE (%)                    -0.053057     -0.040233                       -0.151370   0.084034         0.464867       1.000000
+PAGE VIEWS                        1.000000      0.997205                       -0.018400   0.485219        -0.000337      -0.060476
+UNIQUE VIEWS                      0.997205      1.000000                       -0.014594   0.548687         0.020174      -0.052180
+AVERAGE TIME ON PAGE (SECONDS)   -0.018400     -0.014594                        1.000000   0.036085        -0.095315      -0.151350
+ENTRANCES                         0.485219      0.548687                        0.036085   1.000000         0.245622       0.068549
+BOUNCE RATE (%)                  -0.000337      0.020174                       -0.095315   0.245622         1.000000       0.464872
+EXIT RATE (%)                    -0.060476     -0.052180                       -0.151350   0.068549         0.464872       1.000000
+
+Correlation Matrix for gisdata.brla.gov :
+
+
+                                PAGE VIEWS  UNIQUE VIEWS  AVERAGE TIME ON PAGE (SECONDS)  ENTRANCES  BOUNCE RATE (%)  EXIT RATE (%)
+PAGE VIEWS                        1.000000      0.746361                       -0.053305   0.368701         0.015208      -0.104030
+UNIQUE VIEWS                      0.746361      1.000000                       -0.028195   0.850171         0.058793       0.007501
+AVERAGE TIME ON PAGE (SECONDS)   -0.053305     -0.028195                        1.000000  -0.012683        -0.122951      -0.169786
+ENTRANCES                         0.368701      0.850171                       -0.012683   1.000000         0.074355       0.074792
+BOUNCE RATE (%)                   0.015208      0.058793                       -0.122951   0.074355         1.000000       0.473839
+EXIT RATE (%)                    -0.104030      0.007501                       -0.169786   0.074792         0.473839       1.000000
 
 Correlation Matrix for city.brla.gov :
 
 
                                 PAGE VIEWS  UNIQUE VIEWS  AVERAGE TIME ON PAGE (SECONDS)  ENTRANCES  BOUNCE RATE (%)  EXIT RATE (%)
-PAGE VIEWS                        1.000000      0.432163                       -0.029936   0.867217        -0.017656      -0.114928
-UNIQUE VIEWS                      0.432163      1.000000                       -0.046582   0.434642        -0.073509      -0.161077
-AVERAGE TIME ON PAGE (SECONDS)   -0.029936     -0.046582                        1.000000  -0.003912        -0.113540      -0.158660
-ENTRANCES                         0.867217      0.434642                       -0.003912   1.000000         0.005156      -0.074913
-BOUNCE RATE (%)                  -0.017656     -0.073509                       -0.113540   0.005156         1.000000       0.806719
-EXIT RATE (%)                    -0.114928     -0.161077                       -0.158660  -0.074913         0.806719       1.000000
+PAGE VIEWS                        1.000000      0.551098                       -0.034165   0.849448        -0.028765      -0.108265
+UNIQUE VIEWS                      0.551098      1.000000                       -0.043104   0.592810        -0.069652      -0.155537
+AVERAGE TIME ON PAGE (SECONDS)   -0.034165     -0.043104                        1.000000  -0.011780        -0.112789      -0.154068
+ENTRANCES                         0.849448      0.592810                       -0.011780   1.000000        -0.002938      -0.074319
+BOUNCE RATE (%)                  -0.028765     -0.069652                       -0.112789  -0.002938         1.000000       0.807945
+EXIT RATE (%)                    -0.108265     -0.155537                       -0.154068  -0.074319         0.807945       1.000000
 
 Correlation Matrix for data.ebrgis.opendata.arcgis.com :
 
@@ -74,17 +85,6 @@ AVERAGE TIME ON PAGE (SECONDS)   -0.041904     -0.048781                        
 ENTRANCES                         0.222224      0.265579                        0.004341   1.000000         0.196939       0.312175
 BOUNCE RATE (%)                   0.218210      0.461052                       -0.065452   0.196939         1.000000       0.241862
 EXIT RATE (%)                     0.117028      0.193699                       -0.013810   0.312175         0.241862       1.000000
-
-Correlation Matrix for gisdata.brla.gov :
-
-
-                                PAGE VIEWS  UNIQUE VIEWS  AVERAGE TIME ON PAGE (SECONDS)  ENTRANCES  BOUNCE RATE (%)  EXIT RATE (%)
-PAGE VIEWS                        1.000000      0.647570                       -0.075972   0.274382        -0.000976      -0.126793
-UNIQUE VIEWS                      0.647570      1.000000                       -0.033339   0.836293         0.098259       0.053186
-AVERAGE TIME ON PAGE (SECONDS)   -0.075972     -0.033339                        1.000000  -0.009881        -0.127696      -0.178073
-ENTRANCES                         0.274382      0.836293                       -0.009881   1.000000         0.097692       0.129625
-BOUNCE RATE (%)                  -0.000976      0.098259                       -0.127696   0.097692         1.000000       0.390474
-EXIT RATE (%)                    -0.126793      0.053186                       -0.178073   0.129625         0.390474       1.000000
 
 Correlation Matrix for gis.brla.gov :
 

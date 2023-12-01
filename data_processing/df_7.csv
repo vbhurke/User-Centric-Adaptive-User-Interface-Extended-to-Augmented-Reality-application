@@ -1,79 +1,356 @@
 WEBSITE,YEAR,PAGE PATH,PAGE URL,PAGE VIEWS,UNIQUE VIEWS,AVERAGE TIME ON PAGE (SECONDS),ENTRANCES,BOUNCE RATE (%),EXIT RATE (%)
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets']",http://data.ebrgis.opendata.arcgis.com/datasets,324,302,272.03,337,8.76,42.49
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '7051476c9f3344b2abf1bd7469ce8599_0']",http://data.ebrgis.opendata.arcgis.com/datasets/7051476c9f3344b2abf1bd7469ce8599_0,2,2,23.5,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '9209d928f76e4a979adfe04438f21eb4_20']",http://data.ebrgis.opendata.arcgis.com/datasets/9209d928f76e4a979adfe04438f21eb4_20,2,2,179.0,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '2d0eb6e5f887467bbfe236da92c9f16a_0']",http://data.ebrgis.opendata.arcgis.com/datasets/2d0eb6e5f887467bbfe236da92c9f16a_0,11,9,103.5,240,0.0,15.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'ef927acb261c48c3bbef735602b9f5dc_2']",http://data.ebrgis.opendata.arcgis.com/datasets/ef927acb261c48c3bbef735602b9f5dc_2,4,4,181.75,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'd4d14f61b76c4d81a848d0c51c66aa96_0']",http://data.ebrgis.opendata.arcgis.com/datasets/d4d14f61b76c4d81a848d0c51c66aa96_0,2,2,1.0,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '83c38dc839e4464d81ad1f6b9ec0b14f_15']",http://data.ebrgis.opendata.arcgis.com/datasets/83c38dc839e4464d81ad1f6b9ec0b14f_15,2,2,101.5,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '5e6da0996178482994ba06bb8258c377_0']",http://data.ebrgis.opendata.arcgis.com/datasets/5e6da0996178482994ba06bb8258c377_0,2,2,1.0,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '68c3d1291e9442b38012cf0dffddf61f_0']",http://data.ebrgis.opendata.arcgis.com/datasets/68c3d1291e9442b38012cf0dffddf61f_0,2,2,0.0,100,0.0,100.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '0eba51d2a212440480d082ad6924d772_0']",http://data.ebrgis.opendata.arcgis.com/datasets/0eba51d2a212440480d082ad6924d772_0,7,6,291.33,67,0.0,33.33
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '83c38dc839e4464d81ad1f6b9ec0b14f_11']",http://data.ebrgis.opendata.arcgis.com/datasets/83c38dc839e4464d81ad1f6b9ec0b14f_11,2,2,11.0,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '512cbe96676449019a1de81494465254_0']",http://data.ebrgis.opendata.arcgis.com/datasets/512cbe96676449019a1de81494465254_0,2,2,0.0,100,0.0,100.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'cc62f789190c44508a9fa0bf0b37d7bc_0']",http://data.ebrgis.opendata.arcgis.com/datasets/cc62f789190c44508a9fa0bf0b37d7bc_0,2,2,194.5,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '157a0986addf4967953cba2e0330695f_0']",http://data.ebrgis.opendata.arcgis.com/datasets/157a0986addf4967953cba2e0330695f_0,6,6,5.0,0,0.0,66.67
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '83c38dc839e4464d81ad1f6b9ec0b14f_10']",http://data.ebrgis.opendata.arcgis.com/datasets/83c38dc839e4464d81ad1f6b9ec0b14f_10,2,2,0.0,100,0.0,100.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'db1478bb0f744fd58d400e33385bd1a4_0']",http://data.ebrgis.opendata.arcgis.com/datasets/db1478bb0f744fd58d400e33385bd1a4_0,5,5,22.58,67,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '83c38dc839e4464d81ad1f6b9ec0b14f_48']",http://data.ebrgis.opendata.arcgis.com/datasets/83c38dc839e4464d81ad1f6b9ec0b14f_48,2,2,28.5,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '5221d8460cec4bb58695c1502aa8b126_0']",http://data.ebrgis.opendata.arcgis.com/datasets/5221d8460cec4bb58695c1502aa8b126_0,4,4,0.0,0,0.0,100.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'cca5ca1d12804888b655baed90639b9f_0']",http://data.ebrgis.opendata.arcgis.com/datasets/cca5ca1d12804888b655baed90639b9f_0,4,4,3.5,50,100.0,50.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '8e715cc4971d4270889c08cbb66a37ae_0']",http://data.ebrgis.opendata.arcgis.com/datasets/8e715cc4971d4270889c08cbb66a37ae_0,2,2,4.5,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'a537c92613da4a1f91201b2f82d12e3b_0']",http://data.ebrgis.opendata.arcgis.com/datasets/a537c92613da4a1f91201b2f82d12e3b_0,4,4,3.75,200,0.0,50.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'f4e5ddaf94f549ff86db06b593ff2683_0']",http://data.ebrgis.opendata.arcgis.com/datasets/f4e5ddaf94f549ff86db06b593ff2683_0,2,2,0.0,0,0.0,100.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'b108d20e3649417eb32be3816d07538e_0']",http://data.ebrgis.opendata.arcgis.com/datasets/b108d20e3649417eb32be3816d07538e_0,2,2,81.5,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'c1fb994bfea049bcab418b90445bd633_0', 'features', '3']",http://data.ebrgis.opendata.arcgis.com/datasets/c1fb994bfea049bcab418b90445bd633_0/features/3,2,2,0.0,0,0.0,100.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '0c4c455cde8b45baaab1356a003de4ae_0']",http://data.ebrgis.opendata.arcgis.com/datasets/0c4c455cde8b45baaab1356a003de4ae_0,2,2,2.0,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '83c38dc839e4464d81ad1f6b9ec0b14f_38']",http://data.ebrgis.opendata.arcgis.com/datasets/83c38dc839e4464d81ad1f6b9ec0b14f_38,2,2,17.5,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '5896990ec0184bd68dc3ce05ff2244eb_0']",http://data.ebrgis.opendata.arcgis.com/datasets/5896990ec0184bd68dc3ce05ff2244eb_0,2,2,0.0,100,0.0,100.0
-data.ebrgis.opendata.arcgis.com,2017,"['', '']",http://data.ebrgis.opendata.arcgis.com/,16,14,53.0,88,50.0,62.5
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '9bdbb51ca13548b480efbf614b5f17bc_0']",http://data.ebrgis.opendata.arcgis.com/datasets/9bdbb51ca13548b480efbf614b5f17bc_0,2,2,1.0,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '83c38dc839e4464d81ad1f6b9ec0b14f_47']",http://data.ebrgis.opendata.arcgis.com/datasets/83c38dc839e4464d81ad1f6b9ec0b14f_47,2,2,10.0,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '77323272a57c4e84a8e2a23847d0a909_0']",http://data.ebrgis.opendata.arcgis.com/datasets/77323272a57c4e84a8e2a23847d0a909_0,4,4,2.75,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2022,"['', '']",http://data.ebrgis.opendata.arcgis.com/,5620,2020,56.73,107,3.36,35.69
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'a5c39c30e6e74c06a062fedc83faa26d_0']",http://data.ebrgis.opendata.arcgis.com/datasets/a5c39c30e6e74c06a062fedc83faa26d_0,21,11,205.58,19,0.0,9.52
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'f6700e82889744f98fc268a2d4299e8d_0']",http://data.ebrgis.opendata.arcgis.com/datasets/f6700e82889744f98fc268a2d4299e8d_0,2,2,1.0,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '83c38dc839e4464d81ad1f6b9ec0b14f_34']",http://data.ebrgis.opendata.arcgis.com/datasets/83c38dc839e4464d81ad1f6b9ec0b14f_34,2,2,8.0,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '83c38dc839e4464d81ad1f6b9ec0b14f_52']",http://data.ebrgis.opendata.arcgis.com/datasets/83c38dc839e4464d81ad1f6b9ec0b14f_52,2,2,7.5,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'cd587a952a3f4d20837ec75695dd96a8_0']",http://data.ebrgis.opendata.arcgis.com/datasets/cd587a952a3f4d20837ec75695dd96a8_0,7,6,228.83,80,0.0,20.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '2eea25c0e3204f21acb48d362e72bc2e_0']",http://data.ebrgis.opendata.arcgis.com/datasets/2eea25c0e3204f21acb48d362e72bc2e_0,6,6,50.0,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'eb53949895fa4b91a003641d5ce15109_0']",http://data.ebrgis.opendata.arcgis.com/datasets/eb53949895fa4b91a003641d5ce15109_0,2,2,90.5,100,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'bcca06182336467687e9b3948e2f8b5c_0']",http://data.ebrgis.opendata.arcgis.com/datasets/bcca06182336467687e9b3948e2f8b5c_0,2,2,3.5,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '83c38dc839e4464d81ad1f6b9ec0b14f_54']",http://data.ebrgis.opendata.arcgis.com/datasets/83c38dc839e4464d81ad1f6b9ec0b14f_54,2,2,1067.5,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'd4684653de964f759f57bd05f75de64a_0']",http://data.ebrgis.opendata.arcgis.com/datasets/d4684653de964f759f57bd05f75de64a_0,9,9,280.4,57,0.0,64.29
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '0bb5ee73ca114e37b855f29b6d0a14c0_0']",http://data.ebrgis.opendata.arcgis.com/datasets/0bb5ee73ca114e37b855f29b6d0a14c0_0,5,5,537.5,67,0.0,33.33
-data.ebrgis.opendata.arcgis.com,2021,"['', 'bot-traffic.icu']",http://data.ebrgis.opendata.arcgis.com/bot-traffic.icu,2011,2008,0.0,100,99.85,99.85
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'a24584c3cd7b407b8ec0060181ca26b6_0']",http://data.ebrgis.opendata.arcgis.com/datasets/a24584c3cd7b407b8ec0060181ca26b6_0,9,7,72.75,0,0.0,28.57
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'd85e68ff304b49759bb07d33425b8506_4']",http://data.ebrgis.opendata.arcgis.com/datasets/d85e68ff304b49759bb07d33425b8506_4,2,2,298.5,100,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'd096e077b3264466a26850e683f37cd9_0']",http://data.ebrgis.opendata.arcgis.com/datasets/d096e077b3264466a26850e683f37cd9_0,2,2,2.0,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'ceec3ccc41e84457a37b9da5d351e7d1_0']",http://data.ebrgis.opendata.arcgis.com/datasets/ceec3ccc41e84457a37b9da5d351e7d1_0,7,7,10.67,0,0.0,70.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '3e92fddde86d4afaace44932dfc27747_0']",http://data.ebrgis.opendata.arcgis.com/datasets/3e92fddde86d4afaace44932dfc27747_0,2,2,14.5,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'e25f359836414f778e4c422e6fb23375_0']",http://data.ebrgis.opendata.arcgis.com/datasets/e25f359836414f778e4c422e6fb23375_0,2,2,2.0,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', '']",http://data.ebrgis.opendata.arcgis.com/,576,350,113.88,169,27.58,35.08
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '83c38dc839e4464d81ad1f6b9ec0b14f_59']",http://data.ebrgis.opendata.arcgis.com/datasets/83c38dc839e4464d81ad1f6b9ec0b14f_59,2,2,4.5,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '0ff8168d8291494d9fbd666b745a4672_0']",http://data.ebrgis.opendata.arcgis.com/datasets/0ff8168d8291494d9fbd666b745a4672_0,4,4,63.0,0,0.0,50.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '28c023ec04794ad586c4d9f89db24a8b_0']",http://data.ebrgis.opendata.arcgis.com/datasets/28c023ec04794ad586c4d9f89db24a8b_0,4,4,7.25,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '']",http://data.ebrgis.opendata.arcgis.com/datasets/,2,2,0.0,0,0.0,100.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '385e15de673f40128ecf47aae143bcfe_0']",http://data.ebrgis.opendata.arcgis.com/datasets/385e15de673f40128ecf47aae143bcfe_0,4,4,139.25,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '73dc8f3b384e4dfcbeb162996fef62d0_0']",http://data.ebrgis.opendata.arcgis.com/datasets/73dc8f3b384e4dfcbeb162996fef62d0_0,4,4,57.75,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '83c38dc839e4464d81ad1f6b9ec0b14f_56']",http://data.ebrgis.opendata.arcgis.com/datasets/83c38dc839e4464d81ad1f6b9ec0b14f_56,2,2,7.5,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'd46790cf02bc4c128ad5d859c5836cab_0']",http://data.ebrgis.opendata.arcgis.com/datasets/d46790cf02bc4c128ad5d859c5836cab_0,4,2,1.75,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '7cf97ac750f740a4b4364c9a06e0daf3_0']",http://data.ebrgis.opendata.arcgis.com/datasets/7cf97ac750f740a4b4364c9a06e0daf3_0,4,4,0.0,200,0.0,100.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'a38e166f296b467d8e783e21355b62bd_0']",http://data.ebrgis.opendata.arcgis.com/datasets/a38e166f296b467d8e783e21355b62bd_0,2,2,13.0,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'c90c5e762db34efc9f2fbc3378c9aa24_0']",http://data.ebrgis.opendata.arcgis.com/datasets/c90c5e762db34efc9f2fbc3378c9aa24_0,2,2,27.5,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '43f828ef58084b41a7f01c82a047c2df_0']",http://data.ebrgis.opendata.arcgis.com/datasets/43f828ef58084b41a7f01c82a047c2df_0,2,2,18.5,100,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '83c38dc839e4464d81ad1f6b9ec0b14f_51']",http://data.ebrgis.opendata.arcgis.com/datasets/83c38dc839e4464d81ad1f6b9ec0b14f_51,2,2,0.0,0,0.0,100.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '55ec35e5a4424c7884c414b106cee1be_0']",http://data.ebrgis.opendata.arcgis.com/datasets/55ec35e5a4424c7884c414b106cee1be_0,4,4,1.25,100,0.0,50.0
-data.ebrgis.opendata.arcgis.com,2017,"['', 'datasets']",http://data.ebrgis.opendata.arcgis.com/datasets,5,3,600.5,0,0.0,60.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '9209d928f76e4a979adfe04438f21eb4_4']",http://data.ebrgis.opendata.arcgis.com/datasets/9209d928f76e4a979adfe04438f21eb4_4,2,2,16.5,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '9f788a20969c4a3984f560b83061741f_0']",http://data.ebrgis.opendata.arcgis.com/datasets/9f788a20969c4a3984f560b83061741f_0,4,4,6.0,100,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '3f39cdfac9624e99965328f1e8b367cb_0']",http://data.ebrgis.opendata.arcgis.com/datasets/3f39cdfac9624e99965328f1e8b367cb_0,4,4,45.25,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '83c38dc839e4464d81ad1f6b9ec0b14f_49']",http://data.ebrgis.opendata.arcgis.com/datasets/83c38dc839e4464d81ad1f6b9ec0b14f_49,2,2,35.5,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '83c38dc839e4464d81ad1f6b9ec0b14f_58']",http://data.ebrgis.opendata.arcgis.com/datasets/83c38dc839e4464d81ad1f6b9ec0b14f_58,2,2,85.0,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '04e59ed465fe4a0ab70fdabb9413a94d_0']",http://data.ebrgis.opendata.arcgis.com/datasets/04e59ed465fe4a0ab70fdabb9413a94d_0,4,2,1547.0,0,0.0,50.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '83c38dc839e4464d81ad1f6b9ec0b14f_24']",http://data.ebrgis.opendata.arcgis.com/datasets/83c38dc839e4464d81ad1f6b9ec0b14f_24,2,2,7.5,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'c1fb994bfea049bcab418b90445bd633_0']",http://data.ebrgis.opendata.arcgis.com/datasets/c1fb994bfea049bcab418b90445bd633_0,2,2,326.5,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'ef927acb261c48c3bbef735602b9f5dc_0']",http://data.ebrgis.opendata.arcgis.com/datasets/ef927acb261c48c3bbef735602b9f5dc_0,2,2,14.5,0,0.0,0.0
-data.ebrgis.opendata.arcgis.com,2021,"['', '']",http://data.ebrgis.opendata.arcgis.com/,1800,720,8.89,83,0.0,41.67
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', '12b1e0d3edb841b2a8e159353bf0246b_0']",http://data.ebrgis.opendata.arcgis.com/datasets/12b1e0d3edb841b2a8e159353bf0246b_0,4,4,0.0,0,0.0,100.0
-data.ebrgis.opendata.arcgis.com,2016,"['', 'datasets', 'af84146f3eee42339dbcedf4b15ea83e_0']",http://data.ebrgis.opendata.arcgis.com/datasets/af84146f3eee42339dbcedf4b15ea83e_0,2,2,27.5,0,0.0,0.0
+city.brla.gov,2023,"['', 'dept', 'purchase', 'purfops.asp']",http://city.brla.gov/dept/purchase/purfops.asp,1008291,826352,124.0,917394,53.33,44.41
+city.brla.gov,2022,"['', 'dept', 'brpd', 'news', '']",http://city.brla.gov/dept/brpd/news/,2729,1944,82.89,107754,61.52,71.95
+city.brla.gov,2022,"['', 'dept', 'hr', 'joblistall.asp']",http://city.brla.gov/dept/hr/joblistall.asp,23563,16672,75.29,28434,36.98,32.12
+city.brla.gov,2021,"['', 'emergency', 'barricadelist.asp']",http://city.brla.gov/emergency/barricadelist.asp,606,507,69.87,1410,52.45,65.34
+city.brla.gov,2018,"['', 'gis', 'propertydetail.asp']",http://city.brla.gov/gis/propertydetail.asp,29240,24038,146.93,457478,12.98,42.02
+city.brla.gov,2020,"['', 'dept', 'brpd', 'csr', 'zone.asp']",http://city.brla.gov/dept/brpd/csr/zone.asp,603,513,47.72,9166,18.04,34.97
+city.brla.gov,2021,"['', 'dept', 'brpd', 'csr', 'district.asp']",http://city.brla.gov/dept/brpd/csr/district.asp,1014,751,41.28,8139,10.29,31.1
+city.brla.gov,2018,"['', 'dept', 'brpd', 'csr', 'district.asp']",http://city.brla.gov/dept/brpd/csr/district.asp,2602,1585,27.4,5186,7.99,16.54
+city.brla.gov,2018,"['', 'dept', 'hr', 'catlist.asp']",http://city.brla.gov/dept/hr/catlist.asp,5086,2919,18.48,6926,11.47,13.35
+city.brla.gov,2019,"['', 'gis', 'new_censusinfo00.asp']",http://city.brla.gov/gis/new_censusinfo00.asp,12,2,138.83,0,0.0,0.0
+city.brla.gov,2023,"['', 'dept', 'purchase', 'wrapper.asp']",http://city.brla.gov/dept/purchase/wrapper.asp,1,1,128.0,0,0.0,0.0
+city.brla.gov,2019,"['', 'dept', 'brpd', 'csr', 'district.asp']",http://city.brla.gov/dept/brpd/csr/district.asp,3504,2210,36.15,8515,7.21,16.52
+city.brla.gov,2019,"['', 'gis', 'jurisdictionlookup.asp']",http://city.brla.gov/gis/jurisdictionlookup.asp,11706,4132,120.93,10068,25.32,36.45
+city.brla.gov,2023,"['', 'press', 'pressdet.asp']",http://city.brla.gov/press/pressdet.asp,11141,10655,13.9,25814,53.17,55.33
+city.brla.gov,2022,"['', 'press', 'around.asp']",http://city.brla.gov/press/around.asp,33,30,63.52,1125,37.93,67.24
+city.brla.gov,2022,"['', 'dept', 'mohsep', 'ecs-submit.asp']",http://city.brla.gov/dept/mohsep/ecs-submit.asp,154,119,32.99,130,35.0,67.2
+city.brla.gov,2020,"['', 'press', 'arounddet.asp']",http://city.brla.gov/press/arounddet.asp,397,358,23.98,26683,88.1,91.99
+city.brla.gov,2019,"['', 'traffic', 'disclaimer.asp']",http://city.brla.gov/traffic/disclaimer.asp,984,821,47.75,2319,7.6,31.39
+city.brla.gov,2020,"['', 'gis', 'censusinfo10.asp']",http://city.brla.gov/gis/censusinfo10.asp,700,639,103.19,10595,9.47,39.13
+city.brla.gov,2019,"['', 'gis', 'closuredet.asp']",http://city.brla.gov/gis/closuredet.asp,5216,4495,61.35,17648,12.91,35.87
+city.brla.gov,2020,"['', 'dept', 'citycourt', 'warrants', 'detail.asp']",http://city.brla.gov/dept/citycourt/warrants/detail.asp,1734827,1637099,2.48,282585,0.03,0.44
+city.brla.gov,2021,"['', 'emergency', 'admin', 'editwebeoc.asp']",http://city.brla.gov/emergency/admin/editwebeoc.asp,28,14,34.73,40,0.0,26.93
+city.brla.gov,2020,"['', 'gis', 'propertydetail.asp']",http://city.brla.gov/gis/propertydetail.asp,87466,72367,169.23,1439354,13.12,41.41
+city.brla.gov,2021,"['', 'dept', 'purchase', 'bids.asp']",http://city.brla.gov/dept/purchase/bids.asp,14961,11462,100.15,35814,56.34,58.43
+city.brla.gov,2023,"['', 'gis', 'salestaxlookup.asp']",http://city.brla.gov/gis/salestaxlookup.asp,828771,135236,73.71,802538,18.22,18.64
+city.brla.gov,2023,"['', 'dept', 'hr', 'jobann.asp']",http://city.brla.gov/dept/hr/jobann.asp,210,172,19.74,507,2.35,2.35
+city.brla.gov,2021,"['', 'dept', 'hr', 'contlist.asp']",http://city.brla.gov/dept/hr/contlist.asp,19,15,65.54,933,28.57,41.67
+city.brla.gov,2020,"['', 'gis', 'propertylookup.asp']",http://city.brla.gov/gis/propertylookup.asp,88685,28505,42.9,11877,20.34,14.48
+city.brla.gov,2023,"['', 'traffic', 'incidents.asp']",http://city.brla.gov/traffic/incidents.asp,88997708,2341980,40.06,86633129,29.96,3.18
+city.brla.gov,2021,"['', 'dept', 'hr', 'catlist.asp']",http://city.brla.gov/dept/hr/catlist.asp,3816,2049,19.19,17219,8.83,11.27
+city.brla.gov,2022,"['', 'dept', 'council', 'boardapplication.asp']",http://city.brla.gov/dept/council/boardapplication.asp,1162,1017,133.45,11075,41.59,54.42
+city.brla.gov,2022,"['', 'dept', 'council', 'expire.asp']",http://city.brla.gov/dept/council/expire.asp,1621,1264,53.12,5168,26.18,40.54
+city.brla.gov,2019,"['', 'dept', 'citycourt', 'warrants', 'detail.asp']",http://city.brla.gov/dept/citycourt/warrants/detail.asp,278283,244105,7.41,110779,0.48,2.76
+city.brla.gov,2023,"['', 'gis', 'propertydetail.asp']",http://city.brla.gov/gis/propertydetail.asp,1755075,927795,135.17,852327,13.91,50.58
+city.brla.gov,2019,"['', 'emergency', '']",http://city.brla.gov/emergency/,14965,11553,43.01,43533,87.37,90.26
+city.brla.gov,2022,"['', 'gis', 'closuredet.asp']",http://city.brla.gov/gis/closuredet.asp,885,778,80.4,6491,9.16,29.5
+city.brla.gov,2018,"['', 'press', 'arounddet.asp']",http://city.brla.gov/press/arounddet.asp,42,40,24.87,3700,87.18,92.31
+city.brla.gov,2019,"['', 'dept', 'hr', 'test-joblistall.asp']",http://city.brla.gov/dept/hr/test-joblistall.asp,52,18,84.05,90,0.0,4.17
+city.brla.gov,2023,"['', 'gis', 'censusinfo10.asp']",http://city.brla.gov/gis/censusinfo10.asp,17545,14892,86.84,4584,4.9,29.87
+city.brla.gov,2021,"['', 'dept', 'mohsep', 'wrapper.asp']",http://city.brla.gov/dept/mohsep/wrapper.asp,4,1,195.25,25,0.0,0.0
+city.brla.gov,2018,"['', 'dept', 'council', 'boards.asp']",http://city.brla.gov/dept/council/boards.asp,2028,1209,32.85,10468,31.35,30.99
+city.brla.gov,2023,"['', 'press', 'arounddet.asp']",http://city.brla.gov/press/arounddet.asp,67963,62455,46.55,101817,69.36,71.79
+city.brla.gov,2023,"['', 'dept', 'purchase', 'bidresults.asp']",http://city.brla.gov/dept/purchase/bidresults.asp,152108,126083,124.9,120795,46.39,44.04
+city.brla.gov,2021,"['', 'emergency', 'default-pods.asp']",http://city.brla.gov/emergency/default-pods.asp,21,3,302.83,10,0.0,14.29
+city.brla.gov,2018,"['', 'dept', 'hr', 'occdesc.asp']",http://city.brla.gov/dept/hr/occdesc.asp,17233,15266,51.98,66648,4.98,18.08
+city.brla.gov,2018,"['', 'dept', 'hr', 'joblistall.asp']",http://city.brla.gov/dept/hr/joblistall.asp,14284,7236,49.66,6809,20.45,18.06
+city.brla.gov,2018,"['', 'dept', 'brpd', 'news', '']",http://city.brla.gov/dept/brpd/news/,2353,817,47.21,34007,46.38,59.7
+city.brla.gov,2021,"['', 'gis', 'propertydetail.asp']",http://city.brla.gov/gis/propertydetail.asp,94069,77988,164.86,1699028,14.77,41.91
+city.brla.gov,2020,"['', 'dept', 'council', 'boardapplication.asp']",http://city.brla.gov/dept/council/boardapplication.asp,659,541,88.98,9057,41.04,56.15
+city.brla.gov,2018,"['', 'dept', 'council', 'boardappsubmit.asp']",http://city.brla.gov/dept/council/boardappsubmit.asp,37,35,59.69,300,9.38,67.71
+city.brla.gov,2018,"['', 'press', 'around.asp']",http://city.brla.gov/press/around.asp,24,18,63.54,775,27.78,48.61
+city.brla.gov,2019,"['', 'dept', 'oep', 'eventcalendar.asp']",http://city.brla.gov/dept/oep/eventcalendar.asp,6,3,12.17,20,50.0,70.0
+city.brla.gov,2021,"['', 'dept', 'hr', '']",http://city.brla.gov/dept/hr/,160,114,53.36,5067,74.13,83.06
+city.brla.gov,2018,"['', 'emergency', 'admin', 'infoform.asp']",http://city.brla.gov/emergency/admin/infoform.asp,4,1,40.5,0,0.0,0.0
+city.brla.gov,2023,"['', 'gis', 'propertylookup.asp']",http://city.brla.gov/gis/propertylookup.asp,3956533,1322599,31.76,3839681,17.94,13.11
+city.brla.gov,2020,"['', 'dept', 'hr', 'curlist.asp']",http://city.brla.gov/dept/hr/curlist.asp,3258,2545,89.72,33152,66.38,70.66
+city.brla.gov,2019,"['', 'dept', 'council', 'boards.asp']",http://city.brla.gov/dept/council/boards.asp,3900,2410,35.78,20053,43.02,40.99
+city.brla.gov,2020,"['', 'dept', 'hr', 'jobann.asp']",http://city.brla.gov/dept/hr/jobann.asp,23,19,34.3,1675,84.21,88.16
+city.brla.gov,2020,"['', 'dept', 'brpd', 'csr', 'district.asp']",http://city.brla.gov/dept/brpd/csr/district.asp,1974,1323,31.49,7987,6.4,20.17
+city.brla.gov,2022,"['', 'dept', 'finance', 'lookup.asp']",http://city.brla.gov/dept/finance/lookup.asp,5,3,4.5,233,66.67,77.78
+city.brla.gov,2023,"['', 'dept', 'council', 'boarddetail.asp']",http://city.brla.gov/dept/council/boarddetail.asp,104701,64529,46.62,110289,37.27,50.25
+city.brla.gov,2019,"['', 'press', 'pressdet.asp']",http://city.brla.gov/press/pressdet.asp,306,288,29.99,19263,68.65,74.27
+city.brla.gov,2020,"['', 'gis', 'councillookup2.asp']",http://city.brla.gov/gis/councillookup2.asp,6,1,7.0,17,0.0,16.67
+city.brla.gov,2020,"['', 'dept', 'hr', 'dev-occdesc.asp']",http://city.brla.gov/dept/hr/dev-occdesc.asp,103,54,41.58,0,0.0,5.24
+city.brla.gov,2021,"['', 'dept', 'citycourt', 'warrants', '']",http://city.brla.gov/dept/citycourt/warrants/,153419,61846,35.47,25287,32.29,22.26
+city.brla.gov,2021,"['', 'press', 'press.asp']",http://city.brla.gov/press/press.asp,130,104,10.18,4292,30.73,44.44
+city.brla.gov,2022,"['', 'gis', 'councillookup.asp']",http://city.brla.gov/gis/councillookup.asp,11560,3033,51.74,10441,21.83,31.79
+city.brla.gov,2018,"['', 'dept', 'hr', 'contlist.asp']",http://city.brla.gov/dept/hr/contlist.asp,18373,10233,30.23,2013,28.15,26.39
+city.brla.gov,2022,"['', 'press', 'arounddet.asp']",http://city.brla.gov/press/arounddet.asp,1526,1371,46.26,52204,87.84,90.45
+city.brla.gov,2019,"['', 'surveys', '1804a', '']",http://city.brla.gov/surveys/1804a/,9,9,22.12,700,75.0,75.0
+city.brla.gov,2023,"['', 'traffic', 'disclaimer.asp']",http://city.brla.gov/traffic/disclaimer.asp,44030,37963,52.07,5224,15.18,21.86
+city.brla.gov,2020,"['', 'gis', 'streetrange.asp']",http://city.brla.gov/gis/streetrange.asp,1050,299,66.97,5972,15.95,36.43
+city.brla.gov,2019,"['', 'dept', 'hr', 'dev-occdesc.asp']",http://city.brla.gov/dept/hr/dev-occdesc.asp,25,21,25.95,0,0.0,36.25
+city.brla.gov,2022,"['', 'dept', 'brpd', 'csr', '']",http://city.brla.gov/dept/brpd/csr/,3795,2711,34.12,28950,23.51,29.59
+city.brla.gov,2020,"['', 'dept', 'purchase', 'nigpcode_munis_child.asp']",http://city.brla.gov/dept/purchase/nigpcode_munis_child.asp,898,752,59.42,24842,31.27,40.17
+city.brla.gov,2018,"['', 'dept', 'hr', 'catdetails.asp']",http://city.brla.gov/dept/hr/catdetails.asp,6911,3400,24.08,8880,2.58,8.34
+city.brla.gov,2022,"['', 'dept', 'hr', 'getrange.asp']",http://city.brla.gov/dept/hr/getrange.asp,22444,14880,88.63,43305,9.25,35.37
+city.brla.gov,2021,"['', 'gis', 'councillookup.asp']",http://city.brla.gov/gis/councillookup.asp,15062,3936,43.23,11488,20.35,31.29
+city.brla.gov,2021,"['', 'gis', 'closures.asp']",http://city.brla.gov/gis/closures.asp,18046,12311,38.88,36013,34.54,47.96
+city.brla.gov,2023,"['', 'dept', 'oep', 'coursedesc.asp']",http://city.brla.gov/dept/oep/coursedesc.asp,3,3,0.0,200,66.67,100.0
+city.brla.gov,2021,"['', 'dept', 'council', 'boardappsubmit.asp']",http://city.brla.gov/dept/council/boardappsubmit.asp,56,53,19.51,600,12.0,74.5
+city.brla.gov,2019,"['', 'dept', 'hr', 'catlist.asp']",http://city.brla.gov/dept/hr/catlist.asp,5647,3051,21.08,17275,13.17,14.7
+city.brla.gov,2023,"['', 'press', 'around.asp']",http://city.brla.gov/press/around.asp,768,569,3.53,410,1.22,1.81
+city.brla.gov,2021,"['', 'press', 'arounddet.asp']",http://city.brla.gov/press/arounddet.asp,546,494,33.95,31609,88.29,92.74
+city.brla.gov,2020,"['', 'dept', 'council', 'expire.asp']",http://city.brla.gov/dept/council/expire.asp,1085,668,52.44,3740,23.55,34.18
+city.brla.gov,2018,"['', 'dept', 'purchase', 'purfops.asp']",http://city.brla.gov/dept/purchase/purfops.asp,3854,2210,113.71,8087,48.84,42.38
+city.brla.gov,2021,"['', 'gis', 'censusinfo10.asp']",http://city.brla.gov/gis/censusinfo10.asp,719,656,99.82,11500,11.73,41.48
+city.brla.gov,2022,"['', 'gis', 'censusinfo10.asp']",http://city.brla.gov/gis/censusinfo10.asp,461,416,80.33,3850,6.82,46.48
+city.brla.gov,2020,"['', 'dept', 'finance', 'lookup.asp']",http://city.brla.gov/dept/finance/lookup.asp,94,30,33.53,1403,32.69,53.98
+city.brla.gov,2020,"['', 'gis', 'salestaxlookup.asp']",http://city.brla.gov/gis/salestaxlookup.asp,19380,5086,127.19,13427,17.32,28.57
+city.brla.gov,2022,"['', 'dept', 'brpd', 'csr', 'district.asp']",http://city.brla.gov/dept/brpd/csr/district.asp,440,349,47.7,7127,22.46,43.62
+city.brla.gov,2023,"['', 'traffic', 'wrapper.asp']",http://city.brla.gov/traffic/wrapper.asp,140,94,177.59,0,0.0,0.0
+city.brla.gov,2023,"['', 'dept', 'citycourt', 'warrants', 'wrapper.asp']",http://city.brla.gov/dept/citycourt/warrants/wrapper.asp,46,46,39.62,0,0.0,0.0
+city.brla.gov,2018,"['', 'dept', 'citycourt', 'warrants', 'detail.asp']",http://city.brla.gov/dept/citycourt/warrants/detail.asp,12660,11168,46.36,52747,4.37,22.72
+city.brla.gov,2023,"['', 'dept', 'mohsep', 'ecs-info-start.asp']",http://city.brla.gov/dept/mohsep/ecs-info-start.asp,26573,21559,18.52,68874,12.14,12.11
+city.brla.gov,2023,"['', 'dept', 'purchase', 'nigpcode_munis_child.asp']",http://city.brla.gov/dept/purchase/nigpcode_munis_child.asp,34624,24220,43.02,57512,40.44,49.6
+city.brla.gov,2023,"['', 'emergency', '']",http://city.brla.gov/emergency/,15101,13279,43.03,30923,56.1,57.56
+city.brla.gov,2019,"['', 'gis', 'streetrange.asp']",http://city.brla.gov/gis/streetrange.asp,676,208,57.26,4203,11.34,35.31
+city.brla.gov,2023,"['', 'dept', 'citycourt', 'warrants', 'detail.asp']",http://city.brla.gov/dept/citycourt/warrants/detail.asp,54862498,213130,17.15,61336,1.1,6.99
+city.brla.gov,2021,"['', 'gis', 'closuredet.asp']",http://city.brla.gov/gis/closuredet.asp,7729,6879,39.83,24190,19.64,38.53
+city.brla.gov,2019,"['', 'dept', 'oep', 'emergencylinks.asp']",http://city.brla.gov/dept/oep/emergencylinks.asp,22,17,119.39,1217,76.19,84.52
+city.brla.gov,2020,"['', 'gis', 'closuredet.asp']",http://city.brla.gov/gis/closuredet.asp,1699,1452,54.58,17928,17.03,38.59
+city.brla.gov,2021,"['', 'gis', 'salestaxlookup2.asp']",http://city.brla.gov/gis/salestaxlookup2.asp,22,1,7.19,5,0.0,4.55
+city.brla.gov,2020,"['', 'dept', 'hr', 'catdetails.asp']",http://city.brla.gov/dept/hr/catdetails.asp,4981,2625,28.15,26820,11.07,17.23
+city.brla.gov,2019,"['', 'dept', 'oep', 'forms', 'classsignup.asp']",http://city.brla.gov/dept/oep/forms/classsignup.asp,2,1,32.5,0,0.0,0.0
+city.brla.gov,2020,"['', 'dept', 'oep', '']",http://city.brla.gov/dept/oep/,169,127,21.5,7930,80.18,86.04
+city.brla.gov,2019,"['', 'dept', 'hr', 'test-occdesc.asp']",http://city.brla.gov/dept/hr/test-occdesc.asp,118,102,25.99,167,0.0,5.21
+city.brla.gov,2022,"['', 'dept', 'hr', 'catlist.asp']",http://city.brla.gov/dept/hr/catlist.asp,5508,3424,15.68,20435,8.22,10.24
+city.brla.gov,2020,"['', 'emergency', 'default-test.asp']",http://city.brla.gov/emergency/default-test.asp,4,4,204.75,300,50.0,75.0
+city.brla.gov,2018,"['', 'dept', 'purchase', 'previous', 'previous-bidresults.asp']",http://city.brla.gov/dept/purchase/previous/previous-bidresults.asp,15,13,3.64,1017,86.36,92.42
+city.brla.gov,2019,"['', 'emergency', 'admin', '']",http://city.brla.gov/emergency/admin/,60,35,90.36,1405,9.82,36.64
+city.brla.gov,2023,"['', 'dept', 'hr', 'curlist.asp']",http://city.brla.gov/dept/hr/curlist.asp,34513,27934,66.59,46315,34.61,35.46
+city.brla.gov,2021,"['', 'press', 'pressdet.asp']",http://city.brla.gov/press/pressdet.asp,254,233,21.64,17650,86.2,92.71
+city.brla.gov,2020,"['', 'emergency', 'laura.asp']",http://city.brla.gov/emergency/laura.asp,72,49,148.07,635,23.33,56.38
+city.brla.gov,2021,"['', 'emergency', 'admin', '']",http://city.brla.gov/emergency/admin/,76,23,101.23,734,12.22,42.1
+city.brla.gov,2019,"['', 'dept', 'hr', 'catdetails.asp']",http://city.brla.gov/dept/hr/catdetails.asp,8467,4255,25.19,26270,7.56,12.91
+city.brla.gov,2022,"['', 'dept', 'council', 'boards.asp']",http://city.brla.gov/dept/council/boards.asp,4171,3036,40.18,20017,39.88,38.45
+city.brla.gov,2020,"['', 'dept', 'ems', 'boards.asp']",http://city.brla.gov/dept/ems/boards.asp,19,1,27.47,0,0.0,0.0
+city.brla.gov,2020,"['', 'dept', 'council', 'boarddetail.asp']",http://city.brla.gov/dept/council/boarddetail.asp,5418,4341,49.19,78406,30.24,43.87
+city.brla.gov,2019,"['', 'dept', 'hr', 'test-catdetails.asp']",http://city.brla.gov/dept/hr/test-catdetails.asp,276,111,47.64,4,0.0,8.28
+city.brla.gov,2022,"['', 'dept', 'oep', 'eventcalendar.asp']",http://city.brla.gov/dept/oep/eventcalendar.asp,2,2,0.0,0,0.0,100.0
+city.brla.gov,2020,"['', 'dept', 'council', 'boardappsubmit.asp']",http://city.brla.gov/dept/council/boardappsubmit.asp,73,64,31.45,1479,20.37,72.76
+city.brla.gov,2022,"['', 'dept', 'purchase', 'nigpcode_munis_child.asp']",http://city.brla.gov/dept/purchase/nigpcode_munis_child.asp,10701,10440,16.5,227025,85.29,88.88
+city.brla.gov,2023,"['', 'dept', 'brpd_disabled_20221114', 'csr', '']",http://city.brla.gov/dept/brpd_disabled_20221114/csr/,177,176,4.89,225,0.99,1.64
+city.brla.gov,2020,"['', 'dept', 'hr', 'test-occdesc.asp']",http://city.brla.gov/dept/hr/test-occdesc.asp,34,2,15.35,0,0.0,0.0
+city.brla.gov,2023,"['', 'dept', 'oep', 'eventcalendar.asp']",http://city.brla.gov/dept/oep/eventcalendar.asp,4,3,5.33,200,33.33,50.0
+city.brla.gov,2018,"['', 'traffic', 'incidents.asp']",http://city.brla.gov/traffic/incidents.asp,1725414,40223,64.55,505,54.82,2.53
+city.brla.gov,2018,"['', 'dept', 'purchase', 'nigpcode_munis.asp']",http://city.brla.gov/dept/purchase/nigpcode_munis.asp,1129,513,56.57,6497,38.46,34.07
+city.brla.gov,2020,"['', 'dept', 'purchase', 'bidresults.asp']",http://city.brla.gov/dept/purchase/bidresults.asp,9374,7445,185.82,22771,74.0,69.15
+city.brla.gov,2021,"['', 'dept', 'council', 'boards.asp']",http://city.brla.gov/dept/council/boards.asp,3323,2106,38.08,20204,38.66,37.62
+city.brla.gov,2021,"['', 'emergency', 'admin', 'infoform.asp']",http://city.brla.gov/emergency/admin/infoform.asp,9,8,81.36,100,0.0,14.29
+city.brla.gov,2019,"['', 'dept', 'oep', 'coursedesc.asp']",http://city.brla.gov/dept/oep/coursedesc.asp,7,3,4.25,150,33.33,50.0
+city.brla.gov,2019,"['', 'dept', 'hr', 'test-catlist.asp']",http://city.brla.gov/dept/hr/test-catlist.asp,259,35,93.4,235,0.0,1.65
+city.brla.gov,2020,"['', 'gis', 'jurisdictionlookup2.asp']",http://city.brla.gov/gis/jurisdictionlookup2.asp,35,5,28.34,148,0.0,9.68
+city.brla.gov,2018,"['', 'surveys', '1804a', '']",http://city.brla.gov/surveys/1804a/,12,11,4.0,675,83.33,96.88
+city.brla.gov,2022,"['', 'dept', 'brpd', 'csr', 'zone.asp']",http://city.brla.gov/dept/brpd/csr/zone.asp,283,223,82.74,9390,35.05,52.1
+city.brla.gov,2019,"['', 'dept', 'citycourt', 'warrants', '']",http://city.brla.gov/dept/citycourt/warrants/,180708,73095,34.11,27249,27.85,22.21
+city.brla.gov,2019,"['', 'dept', 'council', 'boarddetail.asp']",http://city.brla.gov/dept/council/boarddetail.asp,5420,4482,52.16,73680,26.0,41.16
+city.brla.gov,2021,"['', 'emergency', '']",http://city.brla.gov/emergency/,62694,53313,34.22,351625,91.76,94.47
+city.brla.gov,2022,"['', 'emergency', 'admin', 'editwebeoc.asp']",http://city.brla.gov/emergency/admin/editwebeoc.asp,2,2,12.0,0,0.0,0.0
+city.brla.gov,2018,"['', 'dept', 'hr', '']",http://city.brla.gov/dept/hr/,106,68,48.77,4486,70.12,80.11
+city.brla.gov,2021,"['', 'dept', 'mohsep', 'ecs-info-start.asp']",http://city.brla.gov/dept/mohsep/ecs-info-start.asp,93,56,17.17,3247,39.02,44.7
+city.brla.gov,2021,"['', 'emergency', 'laura.asp']",http://city.brla.gov/emergency/laura.asp,28,25,52.86,520,29.41,74.12
+city.brla.gov,2020,"['', 'emergency', 'admin', 'infoform.asp']",http://city.brla.gov/emergency/admin/infoform.asp,18,10,80.48,112,0.0,24.31
+city.brla.gov,2022,"['', 'dept', 'oep', 'coursedesc.asp']",http://city.brla.gov/dept/oep/coursedesc.asp,2,2,15.5,200,50.0,50.0
+city.brla.gov,2022,"['', 'dept', 'council', 'boardappsubmit.asp']",http://city.brla.gov/dept/council/boardappsubmit.asp,169,168,48.64,749,11.58,51.32
+city.brla.gov,2018,"['', 'dept', 'hr', 'jobann.asp']",http://city.brla.gov/dept/hr/jobann.asp,31560,27844,52.4,29311,32.94,27.88
+city.brla.gov,2022,"['', 'gis', 'censusinfo00.asp']",http://city.brla.gov/gis/censusinfo00.asp,3,3,0.0,200,66.67,100.0
+city.brla.gov,2021,"['', 'gis', 'streetrange2.asp']",http://city.brla.gov/gis/streetrange2.asp,3,1,594.0,33,0.0,0.0
+city.brla.gov,2022,"['', 'gis', 'salestaxlookup.asp']",http://city.brla.gov/gis/salestaxlookup.asp,21594,4469,189.07,25234,17.7,20.99
+city.brla.gov,2019,"['', 'press', 'around.asp']",http://city.brla.gov/press/around.asp,68,58,66.82,2258,25.93,41.51
+city.brla.gov,2020,"['', 'dept', 'council', 'boards.asp']",http://city.brla.gov/dept/council/boards.asp,3632,2117,36.83,19798,35.69,34.58
+city.brla.gov,2019,"['', 'dept', 'purchase', 'nigpcode_munis_child.asp']",http://city.brla.gov/dept/purchase/nigpcode_munis_child.asp,2037,1848,58.88,34770,20.35,30.01
+city.brla.gov,2019,"['', 'traffic', 'incidents.asp']",http://city.brla.gov/traffic/incidents.asp,3328558,82328,61.8,2731,53.78,7.14
+city.brla.gov,2023,"['', 'dept', 'oep', '']",http://city.brla.gov/dept/oep/,28,10,14.52,596,40.0,54.58
+city.brla.gov,2021,"['', 'traffic', 'disclaimer.asp']",http://city.brla.gov/traffic/disclaimer.asp,1997,1650,46.03,6314,29.31,33.19
+city.brla.gov,2019,"['', 'dept', 'purchase', 'bids.asp']",http://city.brla.gov/dept/purchase/bids.asp,14024,11060,88.26,30276,41.27,49.74
+city.brla.gov,2021,"['', 'dept', 'hr', 'jobdesc.asp']",http://city.brla.gov/dept/hr/jobdesc.asp,16,13,36.14,1000,86.36,90.91
+city.brla.gov,2023,"['', 'includes', 'footer.htm']",http://city.brla.gov/includes/footer.htm,1,1,0.0,0,0.0,100.0
+city.brla.gov,2023,"['', 'gis', 'closuresmobile.asp']",http://city.brla.gov/gis/closuresmobile.asp,1288,1058,33.24,404,0.29,0.55
+city.brla.gov,2019,"['', 'press', 'arounddet.asp']",http://city.brla.gov/press/arounddet.asp,360,335,37.61,21413,69.36,76.47
+city.brla.gov,2023,"['', 'dept', 'purchase', 'nigpcode_munis.asp']",http://city.brla.gov/dept/purchase/nigpcode_munis.asp,18658,11993,51.12,19089,28.55,30.06
+city.brla.gov,2021,"['', 'dept', 'purchase', 'bidresults.asp']",http://city.brla.gov/dept/purchase/bidresults.asp,8497,6845,166.51,24495,75.35,71.47
+city.brla.gov,2018,"['', 'surveys', '1804a', 'submit.asp']",http://city.brla.gov/surveys/1804a/submit.asp,1,1,0.0,100,100.0,100.0
+city.brla.gov,2018,"['', 'dept', 'citycourt', 'warrants', '']",http://city.brla.gov/dept/citycourt/warrants/,76421,32338,37.22,15236,25.98,21.38
+city.brla.gov,2023,"['', 'gis', 'closures.asp']",http://city.brla.gov/gis/closures.asp,122009,91079,35.65,121721,30.61,42.3
+city.brla.gov,2023,"['', 'dept', 'council', 'boardapplication.asp']",http://city.brla.gov/dept/council/boardapplication.asp,14608,12745,85.7,15744,25.8,27.21
+city.brla.gov,2019,"['', 'dept', 'brpd', 'csr', 'zone.asp']",http://city.brla.gov/dept/brpd/csr/zone.asp,1534,1081,58.8,8893,9.8,28.74
+city.brla.gov,2019,"['', 'dept', 'oep', '']",http://city.brla.gov/dept/oep/,124,85,18.29,4983,70.76,81.15
+city.brla.gov,2022,"['', 'dept', 'hr', 'curlist.asp']",http://city.brla.gov/dept/hr/curlist.asp,2139,1803,82.38,26665,71.5,74.37
+city.brla.gov,2022,"['', 'gis', 'closures.asp']",http://city.brla.gov/gis/closures.asp,2929,2353,33.91,27368,43.2,57.38
+city.brla.gov,2023,"['', 'gis', 'includes', 'analytics.asp']",http://city.brla.gov/gis/includes/analytics.asp,3,3,549.68,102,0.0,0.0
+city.brla.gov,2019,"['', 'emergency', 'default-test.asp']",http://city.brla.gov/emergency/default-test.asp,16,5,96.48,214,83.33,73.81
+city.brla.gov,2021,"['', 'gis', 'propertylookup.asp']",http://city.brla.gov/gis/propertylookup.asp,92160,29004,41.56,11890,23.28,15.1
+city.brla.gov,2019,"['', 'press', 'press.asp']",http://city.brla.gov/press/press.asp,175,123,38.84,4349,20.83,36.14
+city.brla.gov,2022,"['', 'dept', 'purchase', 'nigpcode_munis.asp']",http://city.brla.gov/dept/purchase/nigpcode_munis.asp,1003,784,64.94,11872,45.0,51.11
+city.brla.gov,2022,"['', 'emergency', 'default-test.asp']",http://city.brla.gov/emergency/default-test.asp,22,22,0.07,1506,68.45,73.0
+city.brla.gov,2019,"['', 'dept', 'council', 'copy-boardapplication.asp']",http://city.brla.gov/dept/council/copy-boardapplication.asp,9,5,210.1,0,0.0,4.0
+city.brla.gov,2020,"['', 'traffic', 'disclaimer.asp']",http://city.brla.gov/traffic/disclaimer.asp,783,647,34.91,4050,12.87,31.47
+city.brla.gov,2019,"['', 'gis', 'salestaxlookup.asp']",http://city.brla.gov/gis/salestaxlookup.asp,12447,2988,152.82,7772,17.52,32.91
+city.brla.gov,2022,"['', 'dept', 'mohsep', 'ecs-info-start.asp']",http://city.brla.gov/dept/mohsep/ecs-info-start.asp,292,223,25.69,12995,9.82,9.98
+city.brla.gov,2019,"['', 'dept', 'oep', 'forms', 'courseregistration.asp']",http://city.brla.gov/dept/oep/forms/courseregistration.asp,1,1,268.0,0,0.0,0.0
+city.brla.gov,2020,"['', 'dept', 'hr', 'occdesc.asp']",http://city.brla.gov/dept/hr/occdesc.asp,15712,13439,49.32,161071,12.16,27.37
+city.brla.gov,2019,"['', 'gis', 'propertylookup.asp']",http://city.brla.gov/gis/propertylookup.asp,88114,27828,36.72,13609,16.06,11.72
+city.brla.gov,2019,"['', 'traffic', 'incidents2.asp']",http://city.brla.gov/traffic/incidents2.asp,524,4,54.61,2,50.0,2.29
+city.brla.gov,2020,"['', 'emergency', 'barricadelist.asp']",http://city.brla.gov/emergency/barricadelist.asp,73,58,60.35,56,50.0,30.2
+city.brla.gov,2021,"['', 'gis', 'jurisdictionlookup.asp']",http://city.brla.gov/gis/jurisdictionlookup.asp,13044,4364,97.81,10840,22.65,35.81
+city.brla.gov,2019,"['', 'dept', 'hr', 'getrange.asp']",http://city.brla.gov/dept/hr/getrange.asp,10537,8426,74.73,33958,6.42,33.66
+city.brla.gov,2023,"['', 'gis', 'propertylookupmobile.asp']",http://city.brla.gov/gis/propertylookupmobile.asp,6493,4879,49.2,5752,0.75,0.77
+city.brla.gov,2018,"['', 'dept', 'hr', 'getrange.asp']",http://city.brla.gov/dept/hr/getrange.asp,8148,6734,69.82,18586,6.26,30.28
+city.brla.gov,2020,"['', 'traffic', 'incidents.asp']",http://city.brla.gov/traffic/incidents.asp,2843435,63070,64.99,1504,44.17,3.33
+city.brla.gov,2020,"['', 'dept', 'hr', 'contlist.asp']",http://city.brla.gov/dept/hr/contlist.asp,172,107,98.6,4953,26.21,60.19
+city.brla.gov,2018,"['', 'press', 'press.asp']",http://city.brla.gov/press/press.asp,76,59,12.73,2400,23.64,35.91
+city.brla.gov,2019,"['', 'gis', 'censusinfo10.asp']",http://city.brla.gov/gis/censusinfo10.asp,693,587,115.61,7020,7.05,35.9
+city.brla.gov,2020,"['', 'press', 'around.asp']",http://city.brla.gov/press/around.asp,27,22,28.67,1183,42.86,68.25
+city.brla.gov,2021,"['', 'dept', 'ems', 'referral.asp']",http://city.brla.gov/dept/ems/referral.asp,8,6,41.5,360,91.67,85.0
+city.brla.gov,2020,"['', 'dept', 'hr', '']",http://city.brla.gov/dept/hr/,443,314,45.25,16462,76.32,84.42
+city.brla.gov,2022,"['', 'gis', 'jurisdictionlookup.asp']",http://city.brla.gov/gis/jurisdictionlookup.asp,16462,5683,118.56,10905,22.5,35.4
+city.brla.gov,2018,"['', 'dept', 'oep', 'eventcalendar.asp']",http://city.brla.gov/dept/oep/eventcalendar.asp,1,1,2.0,0,0.0,0.0
+city.brla.gov,2020,"['', 'dept', 'purchase', 'nigpcode_munis.asp']",http://city.brla.gov/dept/purchase/nigpcode_munis.asp,1066,493,116.81,10088,42.6,48.32
+city.brla.gov,2021,"['', 'dept', 'brpd', 'csr', '']",http://city.brla.gov/dept/brpd/csr/,7072,5177,34.15,33247,17.62,24.38
+city.brla.gov,2021,"['', 'dept', 'hr', 'curlist.asp']",http://city.brla.gov/dept/hr/curlist.asp,2219,1712,88.06,31665,70.81,72.59
+city.brla.gov,2021,"['', 'dept', 'mohsep', 'ecs-submit.asp']",http://city.brla.gov/dept/mohsep/ecs-submit.asp,61,23,27.31,0,0.0,66.43
+city.brla.gov,2018,"['', 'gis', 'jurisdictionlookup.asp']",http://city.brla.gov/gis/jurisdictionlookup.asp,3720,1317,89.08,5493,28.41,39.86
+city.brla.gov,2022,"['', 'dept', 'purchase', 'purfops.asp']",http://city.brla.gov/dept/purchase/purfops.asp,11474,5933,171.03,15479,57.67,43.88
+city.brla.gov,2023,"['', 'dept', 'hr', 'catlist.asp']",http://city.brla.gov/dept/hr/catlist.asp,51141,35204,18.83,46150,7.24,9.03
+city.brla.gov,2018,"['', 'dept', 'purchase', 'nigpcode_munis_child.asp']",http://city.brla.gov/dept/purchase/nigpcode_munis_child.asp,912,810,71.72,9642,10.91,27.45
+city.brla.gov,2020,"['', 'dept', 'brpd', 'news', '']",http://city.brla.gov/dept/brpd/news/,6807,2915,76.71,124914,53.42,63.35
+city.brla.gov,2023,"['', 'dept', 'hr', 'catdetails.asp']",http://city.brla.gov/dept/hr/catdetails.asp,63543,34705,35.34,29595,11.21,15.26
+city.brla.gov,2020,"['', 'press', 'pressdet.asp']",http://city.brla.gov/press/pressdet.asp,388,359,32.04,22379,85.76,91.08
+city.brla.gov,2020,"['', 'emergency', 'admin', 'editwebeoc.asp']",http://city.brla.gov/emergency/admin/editwebeoc.asp,8,8,7.62,0,0.0,12.5
+city.brla.gov,2020,"['', 'press', 'press.asp']",http://city.brla.gov/press/press.asp,205,153,15.5,5375,24.87,40.33
+city.brla.gov,2023,"['', 'dept', 'hr', 'getrange.asp']",http://city.brla.gov/dept/hr/getrange.asp,282207,122272,84.6,60427,9.32,30.69
+city.brla.gov,2020,"['', 'dept', 'citycourt', 'warrants', '']",http://city.brla.gov/dept/citycourt/warrants/,157852,67361,35.56,27488,28.82,24.07
+city.brla.gov,2018,"['', 'dept', 'council', 'expire.asp']",http://city.brla.gov/dept/council/expire.asp,653,411,48.56,1421,13.19,29.11
+city.brla.gov,2023,"['', 'gis', 'streetrange.asp']",http://city.brla.gov/gis/streetrange.asp,47125,14594,16.43,46685,16.87,22.65
+city.brla.gov,2018,"['', 'dept', 'oep', 'emergencylinks.asp']",http://city.brla.gov/dept/oep/emergencylinks.asp,27,14,28.64,823,61.54,72.56
+city.brla.gov,2018,"['', 'emergency', '']",http://city.brla.gov/emergency/,307,225,91.34,2375,61.84,71.57
+city.brla.gov,2020,"['', 'gis', 'jurisdictionlookup.asp']",http://city.brla.gov/gis/jurisdictionlookup.asp,10864,3607,92.92,11350,25.39,35.75
+city.brla.gov,2020,"['', 'dept', 'hr', 'dev-catdetails.asp']",http://city.brla.gov/dept/hr/dev-catdetails.asp,53,19,13.92,0,0.0,4.38
+city.brla.gov,2019,"['', 'dept', 'hr', 'jobann.asp']",http://city.brla.gov/dept/hr/jobann.asp,138,122,26.02,5817,31.08,55.56
+city.brla.gov,2023,"['', 'press', 'press.asp']",http://city.brla.gov/press/press.asp,2590,1139,3.61,2272,6.79,9.73
+city.brla.gov,2018,"['', 'dept', 'council', 'nn-boardappsubmit.asp']",http://city.brla.gov/dept/council/nn-boardappsubmit.asp,40,1,95.82,2,0.0,0.0
+city.brla.gov,2019,"['', 'dept', 'council', 'boardappsubmit.asp']",http://city.brla.gov/dept/council/boardappsubmit.asp,106,100,27.26,983,16.18,70.61
+city.brla.gov,2021,"['', 'dept', 'oep', 'coursedesc.asp']",http://city.brla.gov/dept/oep/coursedesc.asp,4,4,1.5,300,50.0,75.0
+city.brla.gov,2019,"['', 'dept', 'finance', 'lookup.asp']",http://city.brla.gov/dept/finance/lookup.asp,62,21,39.04,1055,30.0,52.75
+city.brla.gov,2018,"['', 'press', 'pressdet.asp']",http://city.brla.gov/press/pressdet.asp,115,103,43.71,6329,73.81,85.36
+city.brla.gov,2021,"['', 'dept', 'council', 'boarddetail.asp']",http://city.brla.gov/dept/council/boarddetail.asp,4832,3953,50.1,83809,33.5,49.29
+city.brla.gov,2021,"['', 'dept', 'hr', 'joblistall.asp']",http://city.brla.gov/dept/hr/joblistall.asp,14714,8065,50.36,20971,34.39,28.43
+city.brla.gov,2021,"['', 'dept', 'council', 'expire.asp']",http://city.brla.gov/dept/council/expire.asp,878,608,50.42,6225,36.69,43.24
+city.brla.gov,2019,"['', 'dept', 'purchase', 'purfops.asp']",http://city.brla.gov/dept/purchase/purfops.asp,8017,4377,108.39,14947,49.52,44.29
+city.brla.gov,2020,"['', 'dept', 'ems', 'referral.asp']",http://city.brla.gov/dept/ems/referral.asp,372,29,98.76,441,25.76,24.39
+city.brla.gov,2023,"['', 'dept', 'hr', 'occdesc.asp']",http://city.brla.gov/dept/hr/occdesc.asp,537233,289937,54.82,468233,27.36,39.04
+city.brla.gov,2021,"['', 'dept', 'brpd', 'csr', 'zone.asp']",http://city.brla.gov/dept/brpd/csr/zone.asp,370,295,59.54,6867,17.78,38.44
+city.brla.gov,2019,"['', 'dept', 'hr', 'dev-catdetails.asp']",http://city.brla.gov/dept/hr/dev-catdetails.asp,24,19,7.53,83,0.0,0.0
+city.brla.gov,2022,"['', 'press', 'press.asp']",http://city.brla.gov/press/press.asp,116,87,24.23,3812,29.76,41.38
+city.brla.gov,2023,"['', 'dept', 'hr', 'jobdesc.asp']",http://city.brla.gov/dept/hr/jobdesc.asp,1809,471,10.64,1307,5.1,5.1
+city.brla.gov,2022,"['', 'dept', 'hr', 'jobann.asp']",http://city.brla.gov/dept/hr/jobann.asp,7,6,5.33,550,83.33,91.67
+city.brla.gov,2020,"['', 'dept', 'hr', 'catlist.asp']",http://city.brla.gov/dept/hr/catlist.asp,3312,1837,18.75,16753,10.37,13.36
+city.brla.gov,2023,"['', 'gis', 'councillookupmobile.asp']",http://city.brla.gov/gis/councillookupmobile.asp,996,583,36.74,406,0.36,0.37
+city.brla.gov,2018,"['', 'dept', 'council', 'nn-boardapplication.asp']",http://city.brla.gov/dept/council/nn-boardapplication.asp,90,2,40.75,1,0.0,1.11
+city.brla.gov,2021,"['', 'dept', 'brpd', 'news', '']",http://city.brla.gov/dept/brpd/news/,4681,1980,76.61,99049,55.37,65.12
+city.brla.gov,2022,"['', 'traffic', 'incidents.asp']",http://city.brla.gov/traffic/incidents.asp,5853503,139640,60.75,3306213,45.7,7.05
+city.brla.gov,2023,"['', 'dept', 'hr', 'contlist.asp']",http://city.brla.gov/dept/hr/contlist.asp,146,146,67.65,296,1.88,1.88
+city.brla.gov,2021,"['', 'emergency', '.']",http://city.brla.gov/emergency/.,1,1,0.0,100,100.0,100.0
+city.brla.gov,2023,"['', 'dept', 'council', 'boardappsubmit.asp']",http://city.brla.gov/dept/council/boardappsubmit.asp,1330,1191,35.91,581,3.61,15.39
+city.brla.gov,2019,"['', 'emergency', 'admin', 'editwebeoc.asp']",http://city.brla.gov/emergency/admin/editwebeoc.asp,8,8,12.75,100,0.0,0.0
+city.brla.gov,2018,"['', 'emergency', 'admin', '']",http://city.brla.gov/emergency/admin/,16,13,62.7,550,10.0,40.0
+city.brla.gov,2020,"['', 'dept', 'hr', 'getrange.asp']",http://city.brla.gov/dept/hr/getrange.asp,8116,6412,75.79,32152,8.23,33.55
+city.brla.gov,2020,"['', 'dept', 'hr', 'dev-catlist.asp']",http://city.brla.gov/dept/hr/dev-catlist.asp,30,11,24.56,39,0.0,0.0
+city.brla.gov,2021,"['', 'emergency']",http://city.brla.gov/emergency,1,1,0.0,0,0.0,100.0
+city.brla.gov,2022,"['', 'dept', 'hr', 'contlist.asp']",http://city.brla.gov/dept/hr/contlist.asp,18,17,34.88,1650,94.12,97.06
+city.brla.gov,2022,"['', 'emergency', 'admin', '']",http://city.brla.gov/emergency/admin/,17,11,16.9,467,10.0,38.33
+city.brla.gov,2021,"['', 'dept', 'mohsep', 'ecs-info.asp']",http://city.brla.gov/dept/mohsep/ecs-info.asp,88,30,67.47,50,0.0,9.42
+city.brla.gov,2019,"['', 'gis', 'councillookup.asp']",http://city.brla.gov/gis/councillookup.asp,12008,3326,64.02,10771,20.39,33.13
+city.brla.gov,2019,"['', 'dept', 'purchase', 'nigpcode_munis.asp']",http://city.brla.gov/dept/purchase/nigpcode_munis.asp,1611,854,106.29,14497,52.31,49.72
+city.brla.gov,2019,"['', 'dept', 'hr', 'contlist.asp']",http://city.brla.gov/dept/hr/contlist.asp,1513,1109,33.34,7390,26.13,40.69
+city.brla.gov,2020,"['', 'gis', 'councillookup.asp']",http://city.brla.gov/gis/councillookup.asp,19382,4776,48.9,10723,18.06,29.03
+city.brla.gov,2018,"['', 'dept', 'hr', 'jobdesc.asp']",http://city.brla.gov/dept/hr/jobdesc.asp,12278,11022,43.6,18585,7.3,15.7
+city.brla.gov,2020,"['', 'dept', 'hr', 'joblistall.asp']",http://city.brla.gov/dept/hr/joblistall.asp,13188,6535,55.29,18549,30.38,25.22
+city.brla.gov,2022,"['', 'gis', 'propertydetail.asp']",http://city.brla.gov/gis/propertydetail.asp,79930,64365,161.5,1712109,19.04,46.68
+city.brla.gov,2021,"['', 'dept', 'council', 'boardapplication.asp']",http://city.brla.gov/dept/council/boardapplication.asp,513,434,152.74,9070,38.81,52.69
+city.brla.gov,2022,"['', 'dept', 'citycourt', 'warrants', 'detail.asp']",http://city.brla.gov/dept/citycourt/warrants/detail.asp,231336,224456,9.13,81200,0.17,1.43
+city.brla.gov,2018,"['', 'dept', 'council', 'boardapplication.asp']",http://city.brla.gov/dept/council/boardapplication.asp,541,420,101.05,6750,42.01,44.6
+city.brla.gov,2020,"['', 'dept', 'hr', 'dev-joblistall.asp']",http://city.brla.gov/dept/hr/dev-joblistall.asp,42,11,56.72,21,0.0,4.76
+city.brla.gov,2018,"['', 'dept', 'purchase', 'bids.asp']",http://city.brla.gov/dept/purchase/bids.asp,7777,6076,101.35,14753,39.9,50.28
+city.brla.gov,2021,"['', 'dept', 'hr', 'catdetails.asp']",http://city.brla.gov/dept/hr/catdetails.asp,6761,3231,30.19,20831,9.84,12.37
+city.brla.gov,2019,"['', 'gis', 'propertydetail.asp']",http://city.brla.gov/gis/propertydetail.asp,86073,71601,155.9,1315771,12.21,40.43
+city.brla.gov,2019,"['', 'gis', 'closures.asp']",http://city.brla.gov/gis/closures.asp,21678,16304,35.28,21847,19.69,32.17
+city.brla.gov,2021,"['', 'dept', 'hr', 'jobann.asp']",http://city.brla.gov/dept/hr/jobann.asp,13,10,4.53,825,80.0,92.5
+city.brla.gov,2021,"['', 'dept', 'citycourt', 'warrants', 'detail.asp']",http://city.brla.gov/dept/citycourt/warrants/detail.asp,1426058,1409981,1.87,314221,0.04,0.43
+city.brla.gov,2022,"['', 'dept', 'hr', 'occdesc.asp']",http://city.brla.gov/dept/hr/occdesc.asp,37365,26630,52.01,355281,20.3,34.07
+city.brla.gov,2022,"['', 'gis', 'propertylookup.asp']",http://city.brla.gov/gis/propertylookup.asp,69418,23944,43.4,12089,24.55,17.29
+city.brla.gov,2021,"['', 'press', 'around.asp']",http://city.brla.gov/press/around.asp,24,20,36.92,750,20.0,52.5
+city.brla.gov,2020,"['', 'dept', 'hr', 'jobdesc.asp']",http://city.brla.gov/dept/hr/jobdesc.asp,5,4,19.5,350,75.0,87.5
+city.brla.gov,2021,"['', 'dept', 'hr', 'occdesc.asp']",http://city.brla.gov/dept/hr/occdesc.asp,19829,17153,50.16,237781,15.93,30.1
+city.brla.gov,2018,"['', 'dept', 'council', 'boarddetail.asp']",http://city.brla.gov/dept/council/boarddetail.asp,2703,2201,51.23,31820,23.19,39.68
+city.brla.gov,2022,"['', 'gis', 'streetrange.asp']",http://city.brla.gov/gis/streetrange.asp,597,233,60.42,6407,31.64,49.85
+city.brla.gov,2020,"['', 'emergency', '']",http://city.brla.gov/emergency/,21574,18070,59.88,35360,89.42,91.01
+city.brla.gov,2020,"['', 'dept', 'oep', 'forms', 'classsignup.asp']",http://city.brla.gov/dept/oep/forms/classsignup.asp,1,1,0.0,100,100.0,100.0
+city.brla.gov,2023,"['', 'gis', 'jurisdictionlookup.asp']",http://city.brla.gov/gis/jurisdictionlookup.asp,764692,277236,79.02,730621,17.96,23.27
+city.brla.gov,2020,"['', 'dept', 'citycourt', 'warrants', 'test-']",http://city.brla.gov/dept/citycourt/warrants/test-,7,1,107.57,0,0.0,0.0
+city.brla.gov,2022,"['', 'dept', 'council', 'boarddetail.asp']",http://city.brla.gov/dept/council/boarddetail.asp,6558,4969,53.73,88557,35.95,50.3
+city.brla.gov,2021,"['', 'traffic', 'incidents.asp']",http://city.brla.gov/traffic/incidents.asp,3059416,88987,66.49,3713,48.0,8.98
+city.brla.gov,2023,"['', 'dept', 'purchase', 'bids.asp']",http://city.brla.gov/dept/purchase/bids.asp,351115,171527,91.56,224986,35.15,34.36
+city.brla.gov,2022,"['', 'dept', 'brpd', 'pmapsel.asp']",http://city.brla.gov/dept/brpd/pmapsel.asp,1,1,0.0,100,100.0,100.0
+city.brla.gov,2023,"['', 'gis', 'councillookup.asp']",http://city.brla.gov/gis/councillookup.asp,412222,119936,28.8,400467,15.92,20.42
+city.brla.gov,2023,"['', 'gis', 'closuredet.asp']",http://city.brla.gov/gis/closuredet.asp,33764,24024,37.57,17293,16.21,37.22
+city.brla.gov,2022,"['', 'dept', 'hr', 'catdetails.asp']",http://city.brla.gov/dept/hr/catdetails.asp,7161,4136,32.4,20351,11.15,13.17
+city.brla.gov,2020,"['', 'dept', 'purchase', 'vendor', 'formsubmit.asp']",http://city.brla.gov/dept/purchase/vendor/formsubmit.asp,1,1,0.0,100,100.0,100.0
+city.brla.gov,2021,"['', 'gis', 'streetrange.asp']",http://city.brla.gov/gis/streetrange.asp,953,313,39.73,6139,15.05,39.6
+city.brla.gov,2018,"['', 'emergency', 'admin', 'editwebeoc.asp']",http://city.brla.gov/emergency/admin/editwebeoc.asp,1,1,13.0,0,0.0,0.0
+city.brla.gov,2018,"['', 'dept', 'hr', 'curlist.asp']",http://city.brla.gov/dept/hr/curlist.asp,74516,45137,27.5,12572,27.6,27.95
+city.brla.gov,2019,"['', 'dept', 'hr', 'curlist.asp']",http://city.brla.gov/dept/hr/curlist.asp,8157,5541,60.01,29962,53.6,52.03
+city.brla.gov,2021,"['', 'gis', 'salestaxlookup.asp']",http://city.brla.gov/gis/salestaxlookup.asp,16355,4870,125.28,12436,13.26,28.11
+city.brla.gov,2021,"['', 'dept', 'purchase', 'nigpcode_munis.asp']",http://city.brla.gov/dept/purchase/nigpcode_munis.asp,656,402,64.73,12173,48.95,55.48
+city.brla.gov,2019,"['', 'dept', 'brpd', 'news', '']",http://city.brla.gov/dept/brpd/news/,3528,1457,73.29,73501,54.42,65.72
+city.brla.gov,2019,"['', 'dept', 'hr', 'jobdesc.asp']",http://city.brla.gov/dept/hr/jobdesc.asp,73,68,3.7,4083,62.5,73.61
+city.brla.gov,2021,"['', 'emergency', 'default-test.asp']",http://city.brla.gov/emergency/default-test.asp,41,30,115.67,1422,77.45,76.27
+city.brla.gov,2022,"['', 'dept', 'purchase', 'bidresults.asp']",http://city.brla.gov/dept/purchase/bidresults.asp,14189,11359,195.5,25439,73.56,68.4
+city.brla.gov,2021,"['', 'dept', 'purchase', 'nigpcode_munis_child.asp']",http://city.brla.gov/dept/purchase/nigpcode_munis_child.asp,629,539,46.21,27012,46.81,57.84
+city.brla.gov,2018,"['', 'dept', 'brpd', 'csr', '']",http://city.brla.gov/dept/brpd/csr/,9059,5838,30.16,18959,10.57,14.61
+city.brla.gov,2022,"['', 'traffic', 'disclaimer.asp']",http://city.brla.gov/traffic/disclaimer.asp,3371,2866,63.14,4243,27.49,35.06
+city.brla.gov,2019,"['', 'dept', 'hr', 'occdesc.asp']",http://city.brla.gov/dept/hr/occdesc.asp,22080,19069,48.95,154082,8.94,22.5
+city.brla.gov,2019,"['', 'dept', 'hr', '']",http://city.brla.gov/dept/hr/,341,245,25.15,14304,76.0,84.64
+city.brla.gov,2023,"['', 'dept', 'council', 'expire.asp']",http://city.brla.gov/dept/council/expire.asp,14296,10414,54.1,5199,14.42,23.41
+city.brla.gov,2021,"['', 'dept', 'ems', 'referral-submit.asp']",http://city.brla.gov/dept/ems/referral-submit.asp,2,2,0.0,100,50.0,100.0
+city.brla.gov,2020,"['', 'dept', 'oep', 'eventcalendar.asp']",http://city.brla.gov/dept/oep/eventcalendar.asp,1,1,0.0,0,0.0,100.0
+city.brla.gov,2022,"['', 'dept', 'hr', 'jobdesc.asp']",http://city.brla.gov/dept/hr/jobdesc.asp,84,82,0.24,3649,68.23,68.86
+city.brla.gov,2020,"['', 'gis', 'closures.asp']",http://city.brla.gov/gis/closures.asp,6287,4536,36.12,27763,18.22,35.47
+city.brla.gov,2023,"['', '', 'emergency', '']",http://city.brla.gov//emergency/,51,51,517.21,0,0.0,0.0
+city.brla.gov,2019,"['', 'dept', 'hr', 'joblistall.asp']",http://city.brla.gov/dept/hr/joblistall.asp,17515,9008,53.95,18031,27.93,23.2
+city.brla.gov,2023,"['', 'emergency', 'barricadelist.asp']",http://city.brla.gov/emergency/barricadelist.asp,102,102,369.99,102,0.5,0.5
+city.brla.gov,2018,"['', 'gis', 'councillookup.asp']",http://city.brla.gov/gis/councillookup.asp,11817,3540,119.67,6301,18.36,32.44
+city.brla.gov,2021,"['', 'dept', 'finance', 'lookup.asp']",http://city.brla.gov/dept/finance/lookup.asp,19,5,17.13,214,20.0,42.86
+city.brla.gov,2018,"['', 'dept', 'oep', '']",http://city.brla.gov/dept/oep/,19,13,29.58,1000,66.67,70.83
+city.brla.gov,2018,"['', 'gis', 'propertylookup.asp']",http://city.brla.gov/gis/propertylookup.asp,31011,9590,40.24,5882,15.94,12.88
+city.brla.gov,2022,"['', 'dept', 'purchase', 'bids.asp']",http://city.brla.gov/dept/purchase/bids.asp,21894,16376,82.05,39442,49.7,54.36
+city.brla.gov,2023,"['', 'dept', 'hr', 'joblistall.asp']",http://city.brla.gov/dept/hr/joblistall.asp,266960,183912,33.1,227163,13.91,12.27
+city.brla.gov,2020,"['', 'dept', 'hr', 'test-getrange.asp']",http://city.brla.gov/dept/hr/test-getrange.asp,14,3,12.3,0,0.0,0.0
+city.brla.gov,2020,"['', 'dept', 'purchase', 'bids.asp']",http://city.brla.gov/dept/purchase/bids.asp,14347,11473,102.69,30838,48.47,54.65
+city.brla.gov,2021,"['', 'dept', 'hr', 'getrange.asp']",http://city.brla.gov/dept/hr/getrange.asp,10240,8219,79.48,32864,7.46,35.17
+city.brla.gov,2018,"['', 'dept', 'purchase', 'previous', 'previous-bids.asp']",http://city.brla.gov/dept/purchase/previous/previous-bids.asp,1,1,0.0,100,100.0,100.0
+city.brla.gov,2019,"['', 'dept', 'council', 'expire.asp']",http://city.brla.gov/dept/council/expire.asp,1067,708,63.26,3868,16.31,32.34
+city.brla.gov,2018,"['', 'gis', 'streetrange.asp']",http://city.brla.gov/gis/streetrange.asp,366,67,43.25,937,14.58,31.45
+city.brla.gov,2020,"['', 'emergency', 'admin', '']",http://city.brla.gov/emergency/admin/,45,35,84.37,1775,16.13,46.24
+city.brla.gov,2023,"['', 'emergency', 'default-test.asp']",http://city.brla.gov/emergency/default-test.asp,887,714,6.07,858,1.24,1.61
+city.brla.gov,2020,"['', 'gis', 'censusinfo00.asp']",http://city.brla.gov/gis/censusinfo00.asp,12,9,47.72,33,0.0,25.93
+city.brla.gov,2019,"['', 'dept', 'purchase', 'bidresults.asp']",http://city.brla.gov/dept/purchase/bidresults.asp,9337,7311,191.23,21917,72.56,68.1
+city.brla.gov,2019,"['', 'emergency', 'admin', 'infoform.asp']",http://city.brla.gov/emergency/admin/infoform.asp,8,5,34.33,0,0.0,25.0
+city.brla.gov,2023,"['', 'dept', 'citycourt', 'warrants', '']",http://city.brla.gov/dept/citycourt/warrants/,5384627,1895964,25.13,2345757,20.01,13.27
+city.brla.gov,2022,"['', 'emergency', '']",http://city.brla.gov/emergency/,6452,5150,52.39,33338,87.46,88.49
+city.brla.gov,2018,"['', 'dept', 'finance', 'lookup.asp']",http://city.brla.gov/dept/finance/lookup.asp,70,18,48.6,611,20.0,40.75
+city.brla.gov,2018,"['', 'traffic', 'disclaimer.asp']",http://city.brla.gov/traffic/disclaimer.asp,421,364,24.91,407,3.9,30.75
+city.brla.gov,2022,"['', 'dept', 'mohsep', 'ecs-info.asp']",http://city.brla.gov/dept/mohsep/ecs-info.asp,238,147,62.0,102,10.0,39.98
+city.brla.gov,2018,"['', 'dept', 'purchase', 'bidresults.asp']",http://city.brla.gov/dept/purchase/bidresults.asp,4647,3599,205.02,11405,70.27,66.57
+city.brla.gov,2020,"['', 'dept', 'brpd', 'csr', '']",http://city.brla.gov/dept/brpd/csr/,15132,10785,27.12,37230,11.79,16.01
+city.brla.gov,2018,"['', 'dept', 'brpd', 'csr', 'zone.asp']",http://city.brla.gov/dept/brpd/csr/zone.asp,1127,803,50.04,4158,5.51,27.36
+city.brla.gov,2021,"['', 'gis', 'censusinfo00.asp']",http://city.brla.gov/gis/censusinfo00.asp,4,4,0.0,200,50.0,100.0
+city.brla.gov,2022,"['', 'emergency', 'laura.asp']",http://city.brla.gov/emergency/laura.asp,2,2,0.0,200,100.0,100.0
+city.brla.gov,2020,"['', 'dept', 'ems', 'referral-submit.asp']",http://city.brla.gov/dept/ems/referral-submit.asp,27,6,183.92,0,0.0,55.84
+city.brla.gov,2019,"['', 'dept', 'brpd', 'csr', '']",http://city.brla.gov/dept/brpd/csr/,14224,9819,24.82,37661,12.19,16.61
+city.brla.gov,2022,"['', 'press', 'pressdet.asp']",http://city.brla.gov/press/pressdet.asp,605,581,16.82,33574,89.0,92.19
+city.brla.gov,2023,"['', 'dept', 'mohsep', 'ecs-submit.asp']",http://city.brla.gov/dept/mohsep/ecs-submit.asp,16402,14749,19.47,247,1.32,12.93
+city.brla.gov,2023,"['', 'dept', 'mohsep', 'ecs-info.asp']",http://city.brla.gov/dept/mohsep/ecs-info.asp,19193,16216,34.4,163,0.73,5.74
+city.brla.gov,2023,"['', 'dept', 'council', 'boards.asp']",http://city.brla.gov/dept/council/boards.asp,49767,36318,25.06,44838,24.46,23.82
+city.brla.gov,2023,"['', 'gis', 'censusinfo00.asp']",http://city.brla.gov/gis/censusinfo00.asp,1325,673,25.92,1321,5.4,5.78
+city.brla.gov,2022,"['', 'dept', 'citycourt', 'warrants', '']",http://city.brla.gov/dept/citycourt/warrants/,241170,104988,34.47,61298,29.1,20.81
+city.brla.gov,2019,"['', 'dept', 'hr', 'dev-catlist.asp']",http://city.brla.gov/dept/hr/dev-catlist.asp,22,9,15.68,121,0.0,1.32
+city.brla.gov,2022,"['', 'dept', 'oep', '']",http://city.brla.gov/dept/oep/,123,70,65.89,4720,68.08,78.31
+city.brla.gov,2021,"['', 'dept', 'purchase', 'purfops.asp']",http://city.brla.gov/dept/purchase/purfops.asp,8343,3982,130.98,16162,63.76,47.9
+city.brla.gov,2019,"['', 'dept', 'council', 'boardapplication.asp']",http://city.brla.gov/dept/council/boardapplication.asp,859,698,124.85,12075,48.82,56.63
+city.brla.gov,2020,"['', 'dept', 'purchase', 'purfops.asp']",http://city.brla.gov/dept/purchase/purfops.asp,7389,3667,75.19,12891,44.8,39.07
+city.brla.gov,2021,"['', 'dept', 'oep', '']",http://city.brla.gov/dept/oep/,115,75,37.74,3995,68.71,79.65
+city.brla.gov,2019,"['', 'gis', 'censusinfo00.asp']",http://city.brla.gov/gis/censusinfo00.asp,37,18,97.28,140,0.0,21.33

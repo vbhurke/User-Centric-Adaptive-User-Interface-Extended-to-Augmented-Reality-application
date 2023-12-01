@@ -28,8 +28,8 @@ RO1_1: To describe the trends within the page paths (url) for a webpage analytic
 RO1_2: To find the trend on which webpage new users are being attracted to in the unique views and average time on webpage.
 
 2) One that captures your application of a machine learning technique in classification or regression to a problem.
-RO2_1: To predict the value of page views for various webpages. (regression)
-RO2_2: To predict the average time on webpages using the average time on webpage analytics data. (regression)
+RO2_1: To predict the class of webpage based on page views and entrances to classify the webpage. (classification)
+RO2_2: To predict the exit rate on webpages using the exit rate and bounce on webpage analytics data. (regression)
 
 3) One that captures the defensibility of the RO2 model.
 RO3_1: To defend the model for performing the prediction of RO2_1.

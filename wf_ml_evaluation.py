@@ -90,7 +90,7 @@ to_summary.append("KNN Accuracy : "+str(knn_accuracy))
 
 to_summary.append("KNN Classifier (neighbours = 7): ")
 knn_X_test2, knn_y_test2 = wf_ml_training.knn(df_1,7)
-knn_y_pred2 = wf_ml_prediction.knn_prediction(knn_X_test2,10)
+knn_y_pred2 = wf_ml_prediction.knn_prediction(knn_X_test2,7)
 
 knn_accuracy2 = accuracy_score(knn_y_test2, knn_y_pred2)
 print("KNN Accuracy:", knn_accuracy2)
