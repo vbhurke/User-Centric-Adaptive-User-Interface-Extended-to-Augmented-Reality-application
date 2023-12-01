@@ -15,6 +15,7 @@ Intellectual Merit:
 Data Sourcing: 
     link : https://data.brla.gov/Government/Website-Analytics/n9u7-h9i7
     The dataset is updated everyday and may change in MD5 value. The data can also be collected via an API call.
+    The MD5 hash value for dataset on November 30 = f709cc36558fae9c1ccfda900bac6a20
 
 Background Knowledge: 
     In an Adaptive User Interface, it is important to identify the user data and impact of features on users. In user interface the user should be easily be able to traverse through the webpages and links and come across the required or desired information. In order to make this easy it is important to take into consideration of relation of sites and how users tend to interact with them. You will notice the use of terms like 'button clicks' in the initial project document, the button clicks are linked to the links and similar to traversing to a webpage. In User Experience it is necessary to identify how the user is interacting with the product and build on the consensus of the data.
